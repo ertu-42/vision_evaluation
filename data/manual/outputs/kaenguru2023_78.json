@@ -1,0 +1,670 @@
+{
+  "metadata": {
+    "filename": "kaenguru2023_78.pdf",
+    "class": "7-8",
+    "date": "Donnerstag, 16. März 2023",
+    "requiredTime": "75 Minuten"
+  },
+  "instances": [
+    {
+      "id": "A2",
+      "description": "Ein frisch gebackenes Brot liegt zum Abkühlen auf einem Gitterrost. Wie sieht der Teil des Gitterrostes unter dem Brot aus?",
+      "questionImage": "../pictures/2023/2023_78/pic_1.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_2.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_3.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_4.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_5.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_6.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "A3",
+      "description": "Welche der folgenden Figuren (Dreieck, Quadrat, Trapez, regelmäßiges Sechseck, Rechteck) kann NICHT mit einer geraden Linie in zwei Trapeze zerteilt werden?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_7.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_8.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_9.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_10.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_11.png"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "A4",
+      "description": "Die dunkle Kreisscheibe mit den zwei Löchern passt genau auf das Ziﬀernblatt. Nun wird die dunkle Scheibe so um den gemeinsamen Mittelpunkt gedreht, dass eine 10 in einem der Löcher zu sehen ist. Welche Zahl ist dann im anderen Loch zu sehen?",
+      "questionImage": "../pictures/2023/2023_78/pic_12.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "2 oder 7"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "2 oder 6"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "1 oder 8"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "3 oder 6"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "3 oder 7"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "A6",
+      "description": "Kristina hat ein durchsichtiges Stück Folie, auf dem einige Linien eingezeichnet sind. Sie faltet es entlang der gestrichelten Linie nach unten. Was ist nun zu sehen?",
+      "questionImage": "../pictures/2023/2023_78/pic_13.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_14.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_15.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_16.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_17.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_18.png"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "A7",
+      "description": "Das abgebildete Rechteck soll aus lauter gleichen Figuren gelegt werden. Die Figuren dürfen gedreht werden, und es darf keine Lücken oder Überlappungen geben. Mit welcher der fünf Figuren ist das NICHT möglich?",
+      "questionImage": "../pictures/2023/2023_78/pic_19.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_20.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_21.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_22.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_23.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_24.png"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "A8",
+      "description": "Die Abbildung zeigt für 4 Autoscooter mithilfe der Pfeile ihre Ausgangsposition, ihre Fahrtrichtung und wie weit sie sich in 5 Sekunden bewegen. Welche beiden Autos werden zusammenstoßen?",
+      "questionImage": "../pictures/2023/2023_78/pic_25.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "A und C"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "C und D"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "A und B"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "B und C"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "A und D"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "A10",
+      "description": "In jeden Kreis der abgebildeten Figur soll eine Zahl geschrieben werden. Zwischen zwei benachbarten Kreisen steht immer die Summe der Zahlen in diesen beiden Kreisen. Welche Zahl muss an der Stelle des Fragezeichens stehen?",
+      "questionImage": "../pictures/2023/2023_78/pic_26.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "12"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "13"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "14"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "15"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "16"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "B1",
+      "description": "Mit Streichhölzern lassen sich die Ziffern 0–9 legen. Wie viele verschiedene natürliche Zahlen lassen sich mit genau 5 Streichhölzern legen?",
+      "questionImage": "../pictures/2023/2023_78/pic_27.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "7"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "11"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B2",
+      "description": "Evita möchte die Zahlen von 1 bis 8 so in die Kästchen des abgebildeten Gitters schreiben, dass die Summen der Zahlen in den Kästchen in den vier Zeilen gleich sind und die Summen der Zahlen in den Kästchen in den beiden Spalten gleich sind. Sie hat bereits die Zahlen 3, 4 und 8 eingetragen. Welche Zahl muss sie in das graue Kästchen schreiben?",
+      "questionImage": "../pictures/2023/2023_78/pic_28.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "7"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "B3",
+      "description": "Laurenz schreibt drei aufeinanderfolgende dreistellige Zahlen der Größe nach auf. Er beginnt mit der kleinsten Zahl. Statt der Ziﬀern verwendet er Symbole. Welche Zahl ist die nächstgrößere?",
+      "questionImage": "../pictures/2023/2023_78/pic_29.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_30.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_31.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_32.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_33.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_78/pic_34.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "B4",
+      "description": "Marlene will aus drei der abgebildeten Scheiben einen Turm bauen. Die Scheiben sollen von unten nach oben immer kleiner werden. Wie viele verschiedene Türme kann Marlene bauen?",
+      "questionImage": "../pictures/2023/2023_78/pic_35.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "10"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "12"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "15"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "B6",
+      "description": "Lilly, John und Malik werfen jeweils fünf Pfeile auf eine Zielscheibe. Pfeile, die im selben Ring landen, geben dieselbe Punktzahl. Lilly hat 46 Punkte erzielt und John 34 Punkte. Wie viele Punkte hat Malik erzielt?",
+      "questionImage": "../pictures/2023/2023_78/pic_36.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "37"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "38"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "39"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "40"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "41"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "B8",
+      "description": "In der Zeichnung sind fünf gleich große Halbkreise abgebildet und die Längen einiger Strecken in cm angegeben. Wie groß ist der Radius der Halbkreise?",
+      "questionImage": "../pictures/2023/2023_78/pic_37.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "14 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "15 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "17 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "18 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "20 cm"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "B9",
+      "description": "Im rechts abgebildeten Ausdruck sollen das Quadrat und das Dreieck so durch natürliche Zahlen ersetzt werden, dass beide Seiten gleich groß sind. Wie viele verschiedene Zahlen können das Quadrat ersetzen?",
+      "questionImage": "../pictures/2023/2023_78/pic_38.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "9"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B10",
+      "description": "Das Dreieck ABC ist gleichschenklig mit den gleich langen Seiten AC und BC. Der Winkel ACB ist 40 Grad groß. Die beiden markierten Winkel EAC und DBA sind gleich groß. Wie groß ist der Winkel BFE?",
+      "questionImage": "data/manual/pictures/2023/2023_78/pic_39.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "55 Grad"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "60 Grad"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "65 Grad"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "70 Grad"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "75 Grad"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "C2",
+      "description": "Die drei grauen Quadrate im Bild haben jedes einen Flächeninhalt von 16cm. Sie bilden ein Rechteck, dessen Ecken auf den Seiten des großen Rechtecks liegen. Zwei Eckpunkte des grauen Rechtecks fallen mit den Mittelpunkten der kürzeren Seiten des großen Rechtecks zusammen. Welchen Flächeninhalt hat das große Rechteck?",
+      "questionImage": "../pictures/2023/2023_78/pic_40.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "76 cm^2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "84 cm^2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "86 cm^2"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "92 cm^2"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "96 cm^2"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "C5",
+      "description": "Finja hat die Zahl 1015 als Summe von Zahlen geschrieben. Die Summanden enthalten nur die Ziﬀer 7, und zwar insgesamt 10-mal. Jetzt möchte Finja die Zahl 2023 als Summe von Zahlen schreiben. Wieder sollen die Summanden nur die Ziﬀer 7 enthalten, und zwar insgesamt 19-mal. Wie oft muss Finja dazu die Zahl 77 als Summand verwenden?",
+      "questionImage": "../pictures/2023/2023_78/pic_41.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "2‑mal"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "3‑mal"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "4‑mal"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "5‑mal"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "6‑mal"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "C7",
+      "description": "In drei benachbarten Häusern leben insgesamt 20 Mäuse. Letzte Nacht hat jede Maus ihr Haus verlassen und ist auf direktem Weg in eines der beiden anderen Häuser umgezogen. Die Zahlen in der Zeichnung geben die Anzahl der Mäuse pro Haus gestern und heute an. Wie viele Mäuse haben den Weg genommen, an dem der Baum steht?",
+      "questionImage": "../pictures/2023/2023_78/pic_42.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "9"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "11"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "12"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "14"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "C8",
+      "description": "Die rechts abgebildete Figur besteht aus 9 Feldern, die dreieckig, viereckig und sechseckig sind. Konstantin möchte die Zahlen von 1 bis 9 in die Felder schreiben. Dabei soll das Produkt der Zahlen in zwei Feldern, die eine gemeinsame Seite haben, nicht größer als 15 sein. Auf wie viele verschiedene Arten kann er das tun?",
+      "questionImage": "../pictures/2023/2023_78/pic_43.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "12"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "16"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "24"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "32"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "C9",
+      "description": "Alina hat mit dem Bleistift 10 Strahlen gezeichnet. Benachbarte Strahlen schließen jeweils einen Winkel der Größe 10 Grad ein. Was ist die größte Anzahl an Strahlen, die sie so wegradieren kann, dass sie immer noch für jeden der Werte 10 Grad, 20 Grad, 30 Grad, 40 Grad, 50 Grad, 60 Grad, 70 Grad, 80 Grad und 90 Grad zwei Strahlen finden kann, die einen Winkel dieser Größe einschließen?",
+      "questionImage": "../pictures/2023/2023_78/pic_44.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "2"
+        }
+      ],
+      "correct": "B"
+    }
+  ]
+}

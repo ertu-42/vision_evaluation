@@ -1,0 +1,736 @@
+{
+  "metadata": {
+    "filename": "kaenguru2024_34.pdf",
+    "class": "3-4",
+    "date": "Donnerstag, 18. April 2024",
+    "requiredTime": "75 Minuten"
+  },
+  "instances": [
+    {
+      "id": "A1",
+      "description": "Die Feuerwehrfrau hat es eilig. Sie muss das Feuer löschen und sucht den schnellsten Weg dorthin. Wie viele Leitern muss sie benutzen?",
+      "questionImage": "../pictures/2024/2024_34/pic_1.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "7"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "9"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "A2",
+      "description": "Welches Quadrat ist in zwei unterschiedliche Teile geteilt?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_2.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_3.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_4.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_5.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_6.png"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "A3",
+      "description": "Auf dem Stück Kästchenpapier malt Erik die Spalte ganz links und 2 Zeilen rot aus. Wie viele Kästchen sind dann insgesamt rot?",
+      "questionImage": "../pictures/2024/2024_34/pic_7.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "14"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "16"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "19"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "20"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "22"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "A4",
+      "description": "Juna zeichnet auf ein Blatt Papier ein Rechteck. Dann faltet sie es und sieht von vorn die Abbildung. Wie könnte das gefaltete Blatt von hinten aussehen?",
+      "questionImage": "../pictures/2024/2024_34/pic_8.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_9.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_10.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_11.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_12.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_13.png"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "A5",
+      "description": "Bei einem Spiel stehen 9 Kinder im Kreis. Sie werfen reihum einen Ball, immer zu dem Kind, das 2 Plätze weiter links steht. Das Kind an Punkt 1 beginnt. Jedes Kind wirft den Ball genau einmal. Ida wirft den Ball als Letzte. An welchem Punkt steht Ida?",
+      "questionImage": "../pictures/2024/2024_34/pic_14.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "7"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "8"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "A6",
+      "description": "Vincent hat mehrere gleich große Würfel gestapelt. Nun will er noch einen Würfel darauflegen. Wie könnte sein Bauwerk dann aussehen?",
+      "questionImage": "../pictures/2024/2024_34/pic_15.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_16.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_17.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_18.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_19.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_20.png"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "A7",
+      "description": "An der Tafel waren 3 aufeinanderfolgende 3-stellige Zahlen der Reihe nach angeschrieben. Lotta hat aus Spaß 4 Ziffern weggewischt. Welche Ziffern hat Lotta von links nach rechts weggewischt?",
+      "questionImage": "../pictures/2024/2024_34/pic_21.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "8 4 5 9"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "9 4 4 9"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "8 3 2 7"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "7 4 4 8"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "9 5 6 9"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B1",
+      "description": "Der Koch in unserer Schulküche ist ein großer Känguru-Fan. Er hat in diesem Jahr sogar ein Känguru-Poster aufgehängt. Wie viele Fliesen sind hinter dem Poster?",
+      "questionImage": "../pictures/2024/2024_34/pic_22.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "32"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "35"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "38"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "44"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "49"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B2",
+      "description": "Bald sind Projekttage. Fünf Freunde haben schon angekreuzt, welche Projekte sie gut finden. Sie wurden alle für Projekte eingeteilt, die sie gut finden. Aber jeder wurde für ein anderes Projekt eingeteilt. Für welches Projekt wurde Lena eingeteilt?",
+      "questionImage": "../pictures/2024/2024_34/pic_23.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "5"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B3",
+      "description": "Aus dem abgebildeten Turm entfernt Jasmin die 2. Scheibe von unten. Aus dem so entstandenen Turm entfernt sie dann die 3. Scheibe von unten. Aus dem nun entstandenen Turm entfernt sie dann die 4. Scheibe von unten. Wie sieht der Turm jetzt aus?",
+      "questionImage": "../pictures/2024/2024_34/pic_24.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_25.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_26.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_27.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_28.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_29.png"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "B4",
+      "description": "Thilo schreibt auf ein Blatt Papier so wie im Bild die Zahlen 1, 2, 3, 4. Dann dreht er es um und schreibt auf die Rückseite so wie im Bild die Zahlen 5, 6, 7, 8. Nun schneidet er das Blatt in vier Teile. Für welche Zahlen stehen die Fragezeichen?",
+      "questionImage": "../pictures/2024/2024_34/pic_30.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1 und 3"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "3 und 4"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "1 und 2"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "2 und 3"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "1 und 4"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "B5",
+      "description": "Ada teilt das abgebildete Quadrat in ein Quadrat mit Seitenlänge 6 cm und kleine Quadrate mit Seitenlänge 2 cm. Wie viele Quadrate erhält Ada?",
+      "questionImage": "../pictures/2024/2024_34/pic_31.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "9"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "11"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "13"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "15"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "17"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "B6",
+      "description": "Sieben Karten mit den Zahlen von 1 bis 7 werden wie im Bild in die Ringe gelegt. In jedem Ring ist die Summe aller Zahlen 10. Welche Zahl steht auf der Karte mit dem Fragezeichen?",
+      "questionImage": "../pictures/2024/2024_34/pic_32.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "7"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "B7",
+      "description": "Der Vorraum der Turnhalle wurde neu gefliest. Als Fliesen gibt es graue Rechtecke und schwarze Quadrate. Die grauen Rechtecke sind 23 cm lang und 11 cm breit. Welche Seitenlänge haben die schwarzen Quadrate?",
+      "questionImage": "../pictures/2024/2024_34/pic_33.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "3 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "4 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "5 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "6 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "7 cm"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "C1",
+      "description": "Ria spielt mit einem Raupenpuzzle. Zwischen Kopf und Endstück soll Rias Raupe 1 oder 2 oder 3 Teile haben. Wie viele verschiedene Raupen kann Ria puzzeln?",
+      "questionImage": "../pictures/2024/2024_34/pic_34.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "7"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "C2",
+      "description": "Drei neugierige Fliegen haben sich auf meine richtig gerechnete Hausaufgabe gesetzt. Welche Summe haben die drei verdeckten Ziffern?",
+      "questionImage": "../pictures/2024/2024_34/pic_35.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "9"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "10"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "11"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "12"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "C3",
+      "description": "Mit weißen Bausteinen und grauen Bausteinen soll der abgebildete Würfel gebaut werden. Die Anzahl an weißen Bausteinen soll so klein wie möglich sein. Wie viele weiße Bausteine werden benötigt?",
+      "questionImage": "../pictures/2024/2024_34/pic_36.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "14"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "15"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "16"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "17"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "18"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "C4",
+      "description": "Auf einer Autofähre stehen 5 gleich große Autos. Die wenigen Autos stehen mit großen Abständen. Wie lang ist ein Auto?",
+      "questionImage": "../pictures/2024/2024_34/pic_37.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "3 m"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "4 m"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "5 m"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "6 m"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "7 m"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "C5",
+      "description": "Thao hat mit 3 Dosen verschiedene Türme gebaut. Er hat gemessen, wie hoch die ersten 3 Türme sind. Wie hoch ist der 4. Turm?",
+      "questionImage": "../pictures/2024/2024_34/pic_38.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "17 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "18 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "19 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "20 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "21 cm"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "C6",
+      "description": "Filip ersetzt rechts in den Rechnungen gleiche Symbole durch gleiche Ziffern und verschiedene Symbole durch verschiedene Ziffern. Welches Ergebnis hat die Multiplikation?",
+      "questionImage": "../pictures/2024/2024_34/pic_39.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "10"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "15"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "18"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "28"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "30"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "C7",
+      "description": "Einige Zellen der Bienenwabe enthalten Honig. Die Zahl in jeder Zelle gibt an, wie viele ihrer Nachbarzellen Honig enthalten. Wie viele Zellen in dieser Bienenwabe enthalten Honig?",
+      "questionImage": "../pictures/2024/2024_34/pic_40.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "7"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "8"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "C8",
+      "description": "Camila, Meret und Pius haben Kekse für das Schulfest gebacken. Einige Kekse wollen sie selbst essen. Diese legen sie in eine Reihe auf den Tisch. Die Kinder nehmen sich in irgendeiner Reihenfolge genau einmal Kekse vom Tisch. Ein Kind nimmt alle Herzen, die noch auf dem Tisch liegen. Ein Kind nimmt alle hellen Kekse, die noch auf dem Tisch liegen. Und ein Kind nimmt alle großen Kekse, die noch auf dem Tisch liegen. Am Ende hat eines der Kinder 3 Kekse, eines 6 Kekse und eines 7 Kekse. Welches Bild zeigt die Kekse, die eines der Kinder genommen hat?",
+      "questionImage": "../pictures/2024/2024_34/pic_41.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_42.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_43.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_44.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_45.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2024/2024_34/pic_46.png"
+        }
+      ],
+      "correct": "E"
+    }
+  ]
+}

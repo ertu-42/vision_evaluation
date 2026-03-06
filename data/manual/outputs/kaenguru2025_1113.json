@@ -1,0 +1,604 @@
+{
+  "metadata": {
+    "filename": "kaenguru2025_1113.pdf",
+    "class": "11-13",
+    "date": "Donnerstag, 20. März 2025",
+    "requiredTime": "75 Minuten"
+  },
+  "instances": [
+    {
+      "id": "A2",
+      "description": "Mit schwarzen und grauen Würfeln wird die abgebildete Würfelpyramide gebaut. Würfel, die einander mit einer Seitenfläche berühren, sollen verschiedene Farben haben. Ganz oben soll ein schwarzer Würfel sein. Wie sieht die fertige Pyramide von oben aus?",
+      "questionImage": "../pictures/2025/2025_1113/pic_1.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_1113/pic_2.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_1113/pic_3.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_1113/pic_4.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_1113/pic_5.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_1113/pic_6.png"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "A4",
+      "description": "Auf einem Blatt Papier hat Viola 4 Punkte markiert. Dann hat sie die Punkte einen nach dem anderen ausgewählt und von jedem Punkt aus jeweils 3 Strecken gezeichnet. Jede Strecke endet entweder am Rand des Blattes oder an einer schon gezeichneten Strecke. In welcher Reihenfolge hat Viola die Punkte ausgewählt?",
+      "questionImage": "../pictures/2025/2025_1113/pic_7.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "D A C B"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "A D B C"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "B D A C"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "B C D A"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "D A B C"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "A6",
+      "description": "Die abgebildeten Figuren sind die ersten 3 Figuren einer Folge. Aus wie vielen Punkten besteht die 4. Figur in dieser Folge?",
+      "questionImage": "../pictures/2025/2025_1113/pic_8.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "46"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "50"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "52"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "56"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "58"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B1",
+      "description": "In der x-y-Ebene ist in dem durch 0<=x<=1, 0<=y<=1 definierten Bereich ein Teil schwarz gefärbt. Ein Punkt (x|y) ist genau dann schwarz gefärbt, wenn sowohl bei x als auch bei y die Ziffer an der ersten Nachkommastelle ungerade ist. Wie sieht das aus?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_1113/pic_9.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_1113/pic_10.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_1113/pic_11.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_1113/pic_12.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_1113/pic_13.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "B3",
+      "description": "Robert möchte einen der 5 markierten Punkte A, B, C, D, E entfernen. Die 6 Strecken, die je 2 der verbleibenden 4 Punkte verbinden, sollen alle unterschiedlich lang sein. Welchen Punkt muss Robert entfernen?",
+      "questionImage": "../pictures/2025/2025_1113/pic_14.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "A"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "B"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "C"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "D"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "E"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "B4",
+      "description": "Auf der Zahlengeraden sind bei 0, 1, 3 und 6 die Mittelpunkte von vier Kreisscheiben. Ihre Radien sind r_1, r_2, r_3 und r_4. Die Kreisscheiben dürfen einander berühren, aber nicht überlappen. Was ist der größtmögliche Wert, den r_1+r_2+r_3+r_4 haben kann?",
+      "questionImage": "../pictures/2025/2025_1113/pic_15.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "7"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "9"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B5",
+      "description": "An jeder Ecke eines Quadrats mit Seitenlänge 2 wird ein Quadrat mit Seitenlänge x abgeschnitten. A(x) ist der Flächeninhalt des verbleibenden Kreuzes in Abhängigkeit von x. Wie sieht der Graph der Funktion A aus?",
+      "questionImage": "../pictures/2025/2025_1113/pic_16.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_1113/pic_17.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_1113/pic_18.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_1113/pic_19.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_1113/pic_20.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_1113/pic_21.png"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "B7",
+      "description": "Auf einem 4x4-Schachbrett stehen 16 Kängurus, eines auf jedem Feld. Bei jedem Zug springen alle Kängurus gleichzeitig. Jedes Känguru springt dabei auf ein benachbartes Feld nach oben, unten, links oder rechts. Es dürfen mehrere Kängurus auf demselben Feld stehen. Wie viele leere Felder kann es nach 10 Zügen höchstens geben?",
+      "questionImage": "../pictures/2025/2025_1113/pic_22.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "15"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "14"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "13"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "12"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "11"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B9",
+      "description": "Die Abbildung zeigt einen Viertelkreis mit Radius r und das rechtwinklige Dreieck POR. Die beiden grauen Gebiete haben den gleichen Flächeninhalt. Wie lang ist die Strecke OR?",
+      "questionImage": "../pictures/2025/2025_1113/pic_23.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "(π*r)/2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "(3*r)/2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "π*r"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "((π^2)*r)/6"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "√3*r"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "B10",
+      "description": "Aus einem großen Wollknäuel strickt die Großmutter lauter gleiche Babysocken. Zu Beginn hatte das Wollknäuel einen Durchmesser von 20 cm. Nachdem 14 Socken fertig sind, hat das Wollknäuel einen Durchmesser von 10 cm. Für wie viele Socken reicht die übrige Wolle?",
+      "questionImage": "../pictures/2025/2025_1113/pic_24.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "2"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "C2",
+      "description": "Eine Gruppe von Marsianern, M_1, M_2 und M_3, und eine Gruppe von Jupiterianern, J_1, J_2 und J_3, sitzen wie abgebildet um einen Tisch. Jedes Mitglied der einen Gruppe sagt immer die Wahrheit und jedes Mitglied der anderen Gruppe lügt immer. Einer der sechs hat den Schlüssel zu ihrem gemeinsamen Raumschiff. Auf die Frage ”Hat eine der beiden Personen, die neben dir sitzen, den Schlüssel?“ antworten J_1, M_1 und M_3 mit ”Nein“, die anderen mit ”Ja“. Wer hat den Schlüssel?",
+      "questionImage": "../pictures/2025/2025_1113/pic_25.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "J_1"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "J_2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "J_3"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "M_1"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "M_2"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "C3",
+      "description": "Auf einem Halbkreis mit dem Durchmesser AD liegen die Punkte B und C auf dem Durchmesser und die Punkte E, F , G und H auf dem Bogen des Halbkreises. Wie viele Dreiecke können gebildet werden, deren Eckpunkte 3 dieser 8 Punkte sind?",
+      "questionImage": "../pictures/2025/2025_1113/pic_26.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "48"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "49"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "50"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "52"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "54"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "C4",
+      "description": "Der Flächeninhalt des grauen Halbkreises beträgt 12 cm^2. Welchen Flächeninhalt hat der große Viertelkreis?",
+      "questionImage": "../pictures/2025/2025_1113/pic_27.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "42 cm^2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "36 cm^2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "32 cm^2"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "30 cm^2"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "25 cm^2"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "C5",
+      "description": "Auf dem Tisch stehen 3 Schachteln, die jeweils 5 Kugeln enthalten. Die Deckel sind vertauscht. Auf jedem Deckel steht, was eine der beiden anderen Schachteln enthält. Aleyna und Luis nutzen das für ein Spiel. Aleyna soll in so wenig Zügen wie möglich den Inhalt von jeder der drei Kisten bestimmen. In jedem Zug wählt Aleyna eine Kiste aus, und aus dieser Kiste gibt Luis ihr eine Kugel. Luis wählt dabei die Kugeln so aus, dass Aleyna möglichst viele Züge benötigt. Wie viele Züge benötigt Aleyna?",
+      "questionImage": "../pictures/2025/2025_1113/pic_28.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "5"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "C7",
+      "description": "Rechts ist schematisch eine Stadt dargestellt, in der es vier Grundschulen gibt, und die vier Einzugsbereiche dieser Schulen. Der Einzugsbereich jeder Schule ist die Menge aller Punkte, für die diese Schule näher liegt als jede der drei anderen Schulen. Die Schule im Bereich ganz links befindet sich im Punkt S. In welchem Punkt befindet sich die Schule im Bereich ganz rechts?",
+      "questionImage": "../pictures/2025/2025_1113/pic_29.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "in A"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "in B"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "in C"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "in D"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "in E"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "C8",
+      "description": "Im regelmäßigen Sechseck ABCDEF liegt der Punkt P auf der Seite BC. Das Dreieck PEF hat einen Flächeninhalt von 64 cm^2, und das Dreieck PDE hat einen Flächeninhalt von 42 cm^2. Welchen Flächeninhalt hat das Dreieck PFA?",
+      "questionImage": "../pictures/2025/2025_1113/pic_30.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "53 cm^2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "54 cm^2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "56 cm^2"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "60 cm^2"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "64 cm^2"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "C9",
+      "description": "In jeder Zelle eines 7x10-Rechtecks steht eine ganze Zahl. Die Summe aller Zahlen in einem beliebigen 3x4-Rechteck oder 4x3-Rechteck ist 0. In den beiden Zellen in der Mitte stehen die Zahlen 20 und 25. Was ist die Summe aller Zahlen im 7x10-Rechteck?",
+      "questionImage": "../pictures/2025/2025_1113/pic_31.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "–45"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "–25"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "–20"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "–5"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "5"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "C10",
+      "description": "Die Abbildung zeigt ein regelmäßiges Achteck mit der Seitenlänge 1 cm. Um jeden Eckpunkt wurde ein Bogen mit dem Radius 1 cm gezeichnet. Wie groß ist der Umfang der grauen Fläche in cm?",
+      "questionImage": "../pictures/2025/2025_1113/pic_32.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "π"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "(2π)/3"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "(8π)/9"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "(4π)/5"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "(3π)/4"
+        }
+      ],
+      "correct": "B"
+    }
+  ]
+}

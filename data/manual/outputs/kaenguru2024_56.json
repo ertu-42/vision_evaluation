@@ -1,0 +1,637 @@
+{
+  "metadata": {
+    "filename": "kaenguru2024_56.pdf",
+    "class": "5-6",
+    "date": "Donnerstag, 18. April 2024",
+    "requiredTime": "75 Minuten"
+  },
+  "instances": [
+    {
+      "id": "A1",
+      "description": "Kira hat die Jahreszahl 2024 auf Kästchenpapier gezeichnet, einige Kästchen dunkel gefärbt und an der gestrichelten Linie gefaltet. An wie vielen Stellen liegen nun 2 dunkle Kästchen aufeinander?",
+      "questionImage": "../pictures/2024/2024_56/pic_1.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "7"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "10"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "A2",
+      "description": "Bastian hüpft auf den quadratischen Platten nach einem Muster. Auf welcher der folgenden Platten wird er nur mit dem rechten Fuß landen?",
+      "questionImage": "../pictures/2024/2024_56/pic_2.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "auf der 14."
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "auf der 15."
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "auf der 16."
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "auf der 17."
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "auf der 18."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "A3",
+      "description": "In unserer Klasse haben wir eine Geheimschrift. Für jeden Buchstaben gibt es ein besonderes Zeichen. Die Namen meiner Freunde Linus und Eva schreiben sich so wie in der Abbildung. Und ich bin Luisa. Wie schreibt sich mein Name?",
+      "questionImage": "../pictures/2024/2024_56/pic_3.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_4.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_5.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_6.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_7.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_8.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "A4",
+      "description": "Pia möchte mit ihrem roten Stift die Figur rechts in einem Zug ohne abzusetze nnachzeichnen. Sie kann an einer beliebigen Stelle beginnen. Pia möchte so wenig wie möglich doppelt zeichnen. Wie lang ist dann der Weg, den Pias roter Stift zurücklegen muss?",
+      "questionImage": "../pictures/2024/2024_56/pic_9.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "7 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "8 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "9 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "10 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "11 cm"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "A5",
+      "description": "Fritz baut mit seinem Vater ein Regal. Er hat drei Bretter an das Fenster gelehnt. Wie sieht das von draußen aus?",
+      "questionImage": "../pictures/2024/2024_56/pic_10.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_11.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_12.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_13.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_14.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_15.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "A6",
+      "description": "Veronika zieht 4 schwere Pakete mit dem Handwagen nach Hause. Dort lädt sie die Pakete eins nach dem anderen ab. Welcher der folgenden Stapel kann dabei nicht entstehen?",
+      "questionImage": "../pictures/2024/2024_56/pic_16.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_17.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_18.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_19.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_20.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_21.png"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "A8",
+      "description": "Die Drachen von Natalie und Samir sind schon hoch am Himmel. Da verdeckt ein Wolkenband plötzlich die Sicht auf die beiden Schnüre. Wie könnten die Schnüre im Wolkenband verlaufen?",
+      "questionImage": "../pictures/2024/2024_56/pic_22.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_23.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_24.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_25.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_26.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_27.png"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "B1",
+      "description": "Hakan hat viele gleiche rechteckige Teile aus Papier. Damit legt er die Figur rechts. Die Figur ist 45 cm breit und 30 cm hoch. Welche Seitenlängen haben die einzelnen Rechtecke?",
+      "questionImage": "../pictures/2024/2024_56/pic_28.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "9 cm und 4 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "9 cm und 5 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "8 cm und 4 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "9 cm und 3 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "8 cm und 5 cm"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "B2",
+      "description": "Das Bild zeigt das Bus-Netz von Mittelstadt. Die Linien sollen so gefärbt werden, dass Buslinien, die einander kreuzen, verschiedene Farben haben. Wie viele Farben sind dafür nötig?",
+      "questionImage": "../pictures/2024/2024_56/pic_29.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "6"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B3",
+      "description": "In die Kreise der Figur sollen die Zahlen 1, 2, 3 und 4 eingetragen werden. Dabei soll in jeder Zeile und in jeder Spalte jede der vier Zahlen genau einmal vorkommen. Das Zeichen > soll stets von der größeren Zahl mit der Spitze zur kleineren Zahl zeigen. Welche Zahl gehört in den grauen Kreis?",
+      "questionImage": "../pictures/2024/2024_56/pic_30.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "Es gibt mehrere Möglichkeiten."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "B4",
+      "description": "Auf dem Tisch liegen drei identische Würfel. Wie groß ist die Summe der drei Zahlen auf den Würfelseiten, die auf dem Tisch liegen?",
+      "questionImage": "../pictures/2024/2024_56/pic_31.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "37"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "43"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "48"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "51"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "54"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "B5",
+      "description": "Eduardo wirft mit drei Steinchen auf die rechts gemalten Felder. Er triﬀt in drei verschiedene Felder. Die Summe der drei Punktzahlen ist 11. Welche Diﬀerenz können seine größte und seine kleinste Punktzahl höchstens haben?",
+      "questionImage": "../pictures/2024/2024_56/pic_32.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "7"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "4"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B6",
+      "description": "Mia möchte aus dem abgebildeten Würfelnetz einen Würfel falten. Je zwei Dreiecke, die an einer Würfelkante aneinanderstoßen, sollen die gleiche Farbe haben. Wie muss Mia das linke, noch weiße Quadrat färben?",
+      "questionImage": "../pictures/2024/2024_56/pic_33.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_34.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_35.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_36.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_37.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2024/2024_56/pic_38.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "B7",
+      "description": "Von Louis Braille wurde 1825 eine Schrift für blinde und stark sehbehinderte Menschen entwickelt. Buchstaben und Ziﬀern können so mit den Fingern ertastet werden. Die folgenden Zeichen werden für die 10 Ziﬀern benutzt. Wie viele 2-stellige Zahlen lassen sich mit genau 4 schwarzen Punkten darstellen?",
+      "questionImage": "../pictures/2024/2024_56/pic_39.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "18"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "21"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "23"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "26"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "27"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "B8",
+      "description": "An drei der Würfelecken stehen die Zahlen 6, 7 und 8. Es sollen die Zahlen von 1 bis 5 so ergänzt werden, dass die Summen der 4 Eck-Zahlen jeder Würfelseite gleich sind. Für welche Zahl steht das Fragezeichen?",
+      "questionImage": "../pictures/2024/2024_56/pic_40.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "5"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "C1",
+      "description": "Shirley deckt den Tisch. Wie üblich stellt sie die 4 Tassen zufällig auf die 4 Untertassen, ohne auf die passenden Muster zu achten. Welche Aussage ist dann gewiss richtig?",
+      "questionImage": "../pictures/2024/2024_56/pic_41.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "Es ist sicher, dass keine der 4 Tassen auf ihrer passenden Untertasse steht."
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "Es ist sicher, dass genau eine Tasse auf ihrer passenden Untertasse steht."
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "Es ist nicht möglich, dass genau 2 Tassen auf ihrer passenden Untertasse stehen."
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "Es ist nicht möglich, dass genau 3 Tassen auf ihrer passenden Untertasse stehen."
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "Es ist nicht möglich, dass alle 4 Tassen auf ihrer passenden Untertasse stehen."
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "C3",
+      "description": "Einige Zellen der Bienenwabe enthalten Honig. Die Zahl in jeder Zelle gibt an, wie viele ihrer Nachbarzellen Honig enthalten. Wie viele Zellen in dieser Bienenwabe enthalten Honig?",
+      "questionImage": "../pictures/2024/2024_56/pic_42.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "7"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "9"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "10"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "11"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "C5",
+      "description": "Maira will die Zahlen von 1 bis 10 so in die 10 Kreise eintragen, dass in jedem der 3 „Arme“ der Figur die Summe der 4 Zahlen 23 ist. Welche Zahl muss sie dazu in den grauen Kreis schreiben?",
+      "questionImage": "../pictures/2024/2024_56/pic_43.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "7"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "8"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "C6",
+      "description": "Richard will aus insgesamt 3 oder 4 oder 5 Teilen eine Raupe mit Kopf und Endstück legen. Wie viele verschiedene Raupen kann Richard nach diesen Regeln puzzeln?",
+      "questionImage": "../pictures/2024/2024_56/pic_44.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "20"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "18"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "16"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "14"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "12"
+        }
+      ],
+      "correct": "A"
+    }
+  ]
+}

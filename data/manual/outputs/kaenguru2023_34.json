@@ -1,0 +1,637 @@
+{
+  "metadata": {
+    "filename": "kaenguru2023_34.pdf",
+    "class": "3-4",
+    "date": "Donnerstag, 16. März 2023",
+    "requiredTime": "75 Minuten"
+  },
+  "instances": [
+    {
+      "id": "A1",
+      "description": "Jonathan hat fünf gleiche Kerzen gleichzeitig angezündet. Dann hat er sie nach und nach wieder ausgepustet. Welche Kerze hat Jonathan zuerst ausgepustet?",
+      "questionImage": "../pictures/2023/2023_34/pic_1.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "A"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "B"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "C"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "D"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "E"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "A2",
+      "description": "Vom Einkauf bringt Paula 66 Cent zurück und legt sie auf den Tisch. Die drei Münzen mit den Fragezeichen haben denselben Wert. Welchen?",
+      "questionImage": "../pictures/2023/2023_34/pic_2.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1 Cent"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "2 Cent"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "5 Cent"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "10 Cent"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "20 Cent"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "A3",
+      "description": "Aus welchen beiden Teilen kann das Quadrat gelegt werden?",
+      "questionImage": "../pictures/2023/2023_34/pic_3.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1 und 2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "2 und 4"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "1 und 3"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "2 und 3"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "1 und 4"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "A5",
+      "description": "Fatima hat eine durchsichtige Folie wie im Bild rechts. Sie faltet sie entlang der gestrichelten Linie nach unten. Was ist nun zu sehen?",
+      "questionImage": "../pictures/2023/2023_34/pic_4.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_5.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_6.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_7.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_8.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_9.png"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "A6",
+      "description": "Die dunkle Scheibe mit den zwei Löchern passt genau auf das Ziﬀernblatt. Nun wird die dunkle Scheibe um den Mittelpunkt gedreht. Welche zwei Zahlen können gleichzeitig sichtbar sein?",
+      "questionImage": "../pictures/2023/2023_34/pic_10.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "4 und 9"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "5 und 9"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "4 und 10"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "5 und 10"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "6 und 9"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "A8",
+      "description": "Leon will aus 3 der abgebildeten Scheiben einen Turm bauen. Die 3 Scheiben sollen von unten nach oben immer kleiner werden. Wie viele verschiedene Türme kann Leon bauen?",
+      "questionImage": "../pictures/2023/2023_34/pic_11.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "8"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B1",
+      "description": "Die Figur auf dem Bild wird mit den fünf abgebildeten Teilen vollständig bedeckt. Welches Teil bedeckt dabei den schwarzen Punkt?",
+      "questionImage": "../pictures/2023/2023_34/pic_12.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_13.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_14.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_15.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_16.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_17.png"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "B2",
+      "description": "Die Klasse 3b führt ein Theaterstück in der Aula auf. Endlich werden die neuen bunten Scheinwerfer benutzt! Der Plan zeigt, wann welche Scheinwerfer leuchten. Wie viele Minuten der Gesamtzeit leuchten genau 2 Scheinwerfer gleichzeitig?",
+      "questionImage": "../pictures/2023/2023_34/pic_18.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "5 Minuten"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "6 Minuten"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "8 Minuten"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "9 Minuten"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "10 Minuten"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "B3",
+      "description": "Im alten Bahnhof gibt es fünf Uhren. Eine geht richtig, eine geht eine Stunde vor und eine geht eine Stunde nach. Zwei Uhren sind stehengeblieben. Welche Uhr zeigt die richtige Uhrzeit?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_19.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_20.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_21.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_22.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_23.png"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "B4",
+      "description": "Frieda klebt die zwei Papierteile auf den schwarzen Kreis, der auf dem Bild abgebildet ist. Was kann Frieda dabei nicht erhalten?",
+      "questionImage": "../pictures/2023/2023_34/pic_24.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_26.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_27.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_28.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_29.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_30.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "B5",
+      "description": "Bela möchte die Kreise in der Figur rechts farbig ausmalen. Dabei sollen direkt miteinander verbundene Kreise verschiedene Farben haben. Wie viele Farben braucht Bela dafür mindestens?",
+      "questionImage": "../pictures/2023/2023_34/pic_31.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "6"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B6",
+      "description": "Mein Opa hat einen neuen Kaninchenstall mit 4 Boxen gebaut. In den linken Boxen sind insgesamt 7 Kaninchen, in den rechten Boxen sind insgesamt 5 und in den oberen Boxen sind insgesamt 8. Wie viele Kaninchen sind insgesamt in den unteren Boxen?",
+      "questionImage": "../pictures/2023/2023_34/pic_32.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "7"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "9"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "11"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "B8",
+      "description": "Anna will das Sudoku fertig ausfüllen. In jeder Zeile, in jeder Spalte und in jedem der vier dick umrandeten Quadrate soll jede der Zahlen 1, 2, 3, 4 genau einmal stehen. Welche Summe haben die beiden Zahlen, die Anna in die grauen Felder eintragen muss?",
+      "questionImage": "../pictures/2023/2023_34/pic_33.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "7"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "C1",
+      "description": "Inga ist U-Bahn-Fahrerin auf der U-Bahn-Linie U23. Sie pendelt zwischen Altmarkt und Gutshof hin und her. Inga startet am Cantorplatz. Ihr 1. Halt ist am Dom. Am 65. Halt macht Inga Pause. Wo ist das?",
+      "questionImage": "../pictures/2023/2023_34/pic_43.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "Altmarkt"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "Bad"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "Eisstadion"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "Flohgasse"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "Gutshof"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "C4",
+      "description": "In einer alten Burg hängen 8 Gemälde an der Wand. Auf 2 Gemälden sind Personen zu sehen. Auf den 6 anderen Gemälden sind nur Tiere zu sehen. Bei 3 nebeneinander hängenden Gemälden ist immer ein Gemälde mit einer Person dabei. Auf welchem der Gemälde ist eine Person zu sehen?",
+      "questionImage": "../pictures/2023/2023_34/pic_35.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_36.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_37.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_38.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_39.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_40.png"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "C5",
+      "description": "Linus spielt mit einer alten Balkenwaage wie im Bild. Er hat 6 Gewichte. Diese wiegen 1kg, 2kg, 3kg, 4kg, 5kg und 6kg. Er stellt 5 der Gewichte wie abgebildet auf die Waage. Die Waage ist nun im Gleichgewicht. Welches Gewicht hat Linus nicht auf die Waage gestellt?",
+      "questionImage": "../pictures/2023/2023_34/pic_41.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1 kg"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "2 kg"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "3 kg"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "4 kg"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "Es gibt mehrere Möglichkeiten."
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "C6",
+      "description": "Die Zahlen 1 bis 7 werden in die 7 Kreise eingetragen. Zwischen zwei benachbarten Kreisen steht immer die Summe dieser beiden Zahlen. Welche Zahl wird in den grauen Kreis eingetragen?",
+      "questionImage": "../pictures/2023/2023_34/pic_42.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "5"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "C7",
+      "description": "Auf einem abgenutzten 60-cm-Lineal sind nur noch wenige Markierungen zu erkennen, aber es kann jede der Längen 10cm, 20cm, 30cm, 40cm, 50cm und 60cm mit einmaligem Anlegen des Lineals gemessen werden. Welches Lineal könnte das sein?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_43.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_44.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_45.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_46.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_47.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "C8",
+      "description": "Clara hat in einem 3x4-Rechteck 5 Kästchen schraﬃert. Ihr Bruder Simon schaut kurz hin und versucht nun, es nachzumalen. Er zeigt Clara die Versuche. Bei einem Versuch hat Simon die richtigen 5 Kästchen schraﬃert. Bei den anderen sind von den schraﬃerten Kästchen nur 4 richtig und jeweils ein Kästchen ist falsch. Welcher Versuch zeigt Claras Rechteck?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_48.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_49.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_50.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_51.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_34/pic_52.png"
+        }
+      ],
+      "correct": "E"
+    }
+  ]
+}

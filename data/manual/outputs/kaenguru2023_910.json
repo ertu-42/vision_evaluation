@@ -1,0 +1,505 @@
+{
+  "metadata": {
+    "filename": "kaenguru2023_910.pdf",
+    "class": "9-10",
+    "date": "Donnerstag, 16. März 2023",
+    "requiredTime": "75 Minuten"
+  },
+  "instances": [
+    {
+      "id": "A2",
+      "description": "In welchem der Bilder ist mehr als eine Schnur zu sehen?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_910/pic_1.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_910/pic_2.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_910/pic_3.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_910/pic_4.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_910/pic_5.png"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "A4",
+      "description": "Heute Morgen hatte Marie-Luise es eilig. Sie musste sogar rennen, um ihre U-Bahn nicht zu verpassen. Zwei Haltestellen später stieg sie aus und ging wie üblich zur Schule. Eines der folgenden Geschwindigkeit-Zeit-Diagramme passt zu Marie-Luises Schulweg. Welches?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_910/pic_6.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_910/pic_7.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_910/pic_8.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_910/pic_9.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_910/pic_10.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "A5",
+      "description": "Rechts ist ein großes Quadrat mit Seitenlänge 10 cm und ein kleines Quadrat mit Seitenlänge 4 cm abgebildet. Das kleine Quadrat liegt genau in der Mitte des großen Quadrats. Welchen Flächeninhalt hat die graue Fläche?",
+      "questionImage": "../pictures/2023/2023_910/pic_11.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "25 cm^2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "30 cm^2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "40 cm^2"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "42 cm^2"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "45 cm^2"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "A7",
+      "description": "Das abgebildete Rechteck ist aus 20 gleich großen Quadraten zusammengesetzt. Der Umfang des grauen Bereichs ist 66 cm lang. Welchen Flächeninhalt hat das Rechteck?",
+      "questionImage": "../pictures/2023/2023_910/pic_12.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "162 cm^2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "180 cm^2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "198 cm^2"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "215 cm^2"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "240 cm^2"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "A10",
+      "description": "In der Schulbibliothek wird an einer Wand ein neues Regal aufgebaut. Zwischen benachbarten senkrechten Brettern sind immer 7 waagerechte Bretter. Die Gesamtzahl der Bretter ist eine der folgenden Zahlen. Welche?",
+      "questionImage": "../pictures/2023/2023_910/pic_13.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "65"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "66"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "67"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "68"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "69"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "B2",
+      "description": "Aus 30 Rauten (Rhomben) wurde ein Mosaik gelegt. Die 20 hellen Rauten sind alle zueinander kongruent und die 10 dunklen sind alle zueinander kongruent. Wie groß ist der größere Innenwinkel der hellen Rauten?",
+      "questionImage": "../pictures/2023/2023_910/pic_14.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "106 Grad"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "108 Grad"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "110 Grad"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "112 Grad"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "114 Grad"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B4",
+      "description": "Maliyahs kleine Schwester hat 90 Spielsteine zu einem Turm gestapelt. Auf den Steinen stehen von unten nach oben die Zahlen von 1 bis 90. Nun nimmt Maliyah nach und nach immer drei Steine gleichzeitig von oben weg und stapelt sie zu einem neuen Turm. Wie viele Steine sind dann im neuen Turm zwischen dem Stein mit der 39 und dem Stein mit der 40?",
+      "questionImage": "../pictures/2023/2023_910/pic_15.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "0"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "1"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "4"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "B6",
+      "description": "Die beiden Punkte M und N sind die Mittelpunkte der linken und der rechten Seite des abgebildeten Rechtecks. Welcher Anteil der Fläche des Rechtecks ist grau gefärbt?",
+      "questionImage": "../pictures/2023/2023_910/pic_16.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1/7"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "1/6"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "1/5"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "1/4"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "1/3"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "B9",
+      "description": "Die drei Quadrate im Bild haben die Seitenlängen 6cm, 10cmund 16cm. Welchen Flächeninhalt hat das graue Trapez?",
+      "questionImage": "../pictures/2023/2023_910/pic_17.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "55 cm^2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "60 cm^2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "65 cm^2"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "70 cm^2"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "75 cm^2"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "C1",
+      "description": "Das Fünfeck ABCDE wurde in sechs gleichschenklige Dreiecke zerlegt, die alle denselben Umfang haben. Das Dreieck ABC ist sogar gleichseitig. Dann verhält sich der Umfang des Dreiecks ABC zum Umfang des Fünfecks ABCDE wie",
+      "questionImage": "../pictures/2023/2023_910/pic_18.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1:3"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "4:9"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "3:7"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "9:16"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "5:8"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "C3",
+      "description": "Feodor hat auf einen Quader eine geschlossene Linie gemalt. Wie sieht das Netz dieses Quaders ganz sicher nicht aus?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_910/pic_19.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_910/pic_20.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_910/pic_21.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_910/pic_22.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_910/pic_23.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "C4",
+      "description": "In die Kreise sollen sieben verschiedene einstellige natürliche Zahlen geschrieben werden. Das Produkt der drei Zahlen auf jeder der drei Linien soll gleich sein. Welche Zahl muss in den Kreis mit dem Fragezeichen geschrieben werden?",
+      "questionImage": "../pictures/2023/2023_910/pic_23.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "8"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "C7",
+      "description": "Die Zahlen in den Gebieten der rechts abgebildeten Figur geben jeweils den Umfang dieses Gebiets in cm an (Abb. nicht maßstabsgerecht). Wie lang ist die äußere Begrenzungslinie der Figur?",
+      "questionImage": "../pictures/2023/2023_910/pic_25.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "22 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "26 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "28 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "32 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "34 cm"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "C9",
+      "description": "Die zwei Halbkreise in der Abbildung haben beide den Radius 1 cm und berühren einander sowie die zueinander parallelen Geraden AB und CD. Wie groß ist das Quadrat der Länge der Strecke AD in cm^2 ?",
+      "questionImage": "../pictures/2023/2023_910/pic_26.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "10 + 3√3"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "6 + 6√2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "9 + 5√2"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "11 + 2√3"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "8 + 4√3"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "C10",
+      "description": "Die Zahlen von 1 bis 6 sollen in die Felder so eingetragen werden, dass die Summe der Zahlen in drei benachbarten Feldern überall ein Vielfaches von 3 ist. Wie viele verschiedene Möglichkeiten gibt es dafür?",
+      "questionImage": "../pictures/2023/2023_910/pic_27.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "48"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "64"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "72"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "81"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "120"
+        }
+      ],
+      "correct": "A"
+    }
+  ]
+}

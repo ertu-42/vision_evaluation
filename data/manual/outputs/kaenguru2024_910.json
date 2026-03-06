@@ -1,0 +1,538 @@
+{
+  "metadata": {
+    "filename": "kaenguru2024_910.pdf",
+    "class": "9-10",
+    "date": "Donnerstag, 18. April 2024",
+    "requiredTime": "75 Minuten"
+  },
+  "instances": [
+    {
+      "id": "A2",
+      "description": "Welches der folgenden Quadrate ist in zwei unterschiedliche Teile geteilt?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2024/2024_910/pic_1.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2024/2024_910/pic_2.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2024/2024_910/pic_3.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2024/2024_910/pic_4.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2024/2024_910/pic_5.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "A3",
+      "description": "Rechts ist ein Spielwürfel abgebildet, bei dem sich wie üblich zwei gegenüberliegende Augenzahlen stets zu 7 addieren. Die Ecke A grenzt an die Seitenflächen mit 1, 2 und 3 Augen und hat demnach die Augensumme (1+2+3=) 6. Welches ist die größte Zahl unter den Augensummen der Ecken B, C und D?",
+      "questionImage": "../pictures/2024/2024_910/pic_6.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "10"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "11"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "12"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "13"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "14"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "A5",
+      "description": "Clementine springt auf den Platten auf dem Schulhof nach dem in der Abbildung gezeichneten Muster: linker Fuß – beide Füße – rechter Fuß – beide Füße – und dann wieder von vorn wie im Bild. Auf der 48. Platte hört sie auf. Wie viele Platten hat Clementine mit dem linken Fuß berührt?",
+      "questionImage": "../pictures/2024/2024_910/pic_7.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "20"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "28"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "32"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "36"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "40"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "A7",
+      "description": "Tim möchte die rechts abgebildete Figur in einem Zug zeichnen, ohne seinen Stift abzusetzen. Er kann an einer beliebigen Stelle beginnen und möchte so wenig wie möglich doppelt zeichnen. Wie lang ist dann der Weg, den Tims Stift zurücklegen muss?",
+      "questionImage": "../pictures/2024/2024_910/pic_8.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "14 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "15 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "16 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "17 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "18 cm"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "A8",
+      "description": "William hat viele gleich große Würfel. Er legt einen davon auf den Tisch. Dann legt er 5 weitere Würfel so dazu, dass vom ersten Würfel alle Seitenflächen bedeckt sind. Nun möchte er zusätzliche Würfel so dazulegen, dass von den bereits liegenden Würfeln alle Seitenflächen bedeckt sind. Wie viele zusätzliche Würfel braucht William dafür mindestens?",
+      "questionImage": "../pictures/2024/2024_910/pic_9.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "7"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "10"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "13"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "16"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "19"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "A10",
+      "description": "Das Bild zeigt ein Quadrat und 4 gleich große Kreise. Jeder der Kreise berührt zwei Seiten des Quadrats und zwei andere Kreise. Die schwarze Fläche in der Mitte ist 1 cm^2 groß. Welchen Flächeninhalt hat die gesamte graue Fläche?",
+      "questionImage": "../pictures/2024/2024_910/pic_10.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "2 cm^2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "3 cm^2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "4 cm^2"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "5 cm^2"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "6 cm^2"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B1",
+      "description": "Fünf Freundinnen haben ihre Hochsprung-Ergebnisse vom Sportfest in ein Diagramm eingetragen. Adele sagt: „Ich finde, dass diejenige am besten war, bei der das Verhältnis von Sprunghöhe zu Körpergröße am größten ist.“ Wer war nach Adeles Meinung am besten?",
+      "questionImage": "../pictures/2024/2024_910/pic_11.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "Adele"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "Bea"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "Celine"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "Dilara"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "Erin"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "B2",
+      "description": "Neo legt ein schwarzes, ein graues und ein weißes Quadrat auf zwei verschiedene Weisen aufeinander. Im linken Bild ist die sichtbare schwarze Fläche 8-mal so groß wie die Fläche des weißen Quadrats. Wie verhält sich im Bild die sichtbare schwarze Fläche zur Fläche des weißen Quadrats?",
+      "questionImage": "../pictures/2024/2024_910/pic_12.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "7:1"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "9:2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "4:1"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "8:3"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "5:2"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "B4",
+      "description": "Im Bild ist der Eckpunkt S des regelmäßigen Sechsecks NOPQRS gleichzeitig der Mittelpunkt des Quadrats KLMN. Wie groß ist der mit dem Fragezeichen markierte Winkel?",
+      "questionImage": "../pictures/2024/2024_910/pic_13.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "105 Grad"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "110 Grad"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "115 Grad"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "120 Grad"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "125 Grad"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "B5",
+      "description": "Jelena will in jedes Feld des abgebildeten 2x4-Gitters einen der Buchstaben A, B, C, Dschreiben. Dabei soll in jeder Zeile und in jedem 2x2-Quadrat jeder der vier Buchstaben genau einmal vorkommen. Wie viele Möglichkeiten gibt es für das vollständig ausgefüllte 2x4-Gitter?",
+      "questionImage": "../pictures/2024/2024_910/pic_14.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "12"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "24"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "48"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "96"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "198"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B7",
+      "description": "Das gleichseitige Dreieck im Bild wird durch drei Strecken im Inneren in drei Teile geteilt. Die Strecken sind 2 cm, 3 cm bzw. 6 cm lang und jeweils parallel zu einer der Dreiecksseiten. Welchen Umfang hat das gleichseitige Dreieck?",
+      "questionImage": "../pictures/2024/2024_910/pic_15.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "24 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "27 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "33 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "36 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "42 cm"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "B9",
+      "description": "Bei Ausgrabungsarbeiten wurde eine große Halle freigelegt. Nur einige der kleinen Bodenfliesen sind erhalten, aber es konnte rekonstruiert werden, dass der Fußboden so gefliest war wie im Ausschnitt. Die Archäologen schätzen, dass es ursprünglich etwa 2000 sechseckige Fliesen waren. Wie viele dreieckige Fliesen waren es dann ursprünglich?",
+      "questionImage": "../pictures/2024/2024_910/pic_16.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "etwa 3000"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "etwa 4000"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "etwa 5000"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "etwa 6000"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "etwa 8000"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "C2",
+      "description": "In jeden Kreis im Bild soll eine natürliche Zahl eingetragen werden. Die Zahl im Inneren eines jeden Quadrats gibt an, welches Produkt die Zahlen in den vier Ecken des Quadrats haben sollen. Wie groß ist dann das Produkt der Zahlen in den 8 grauen Kreisen?",
+      "questionImage": "../pictures/2024/2024_910/pic_17.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "20"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "40"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "80"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "120"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "360"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "C4",
+      "description": "Otis will den abgebildeten Körper basteln, einen Würfel mit zwei aufgesetzten Pyramiden. Er zeichnet dazu ein Netz aus Quadraten und gleichseitigen Dreiecken. Die Seitenlänge der Quadrate und Dreiecke beträgt jeweils 1 cm. Wie groß ist der Abstand zwischen den Pyramidenspitzen A und B im fertigen Körper?",
+      "questionImage": "../pictures/2024/2024_910/pic_18.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "√5 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "(1+√3) cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "2√2 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "5/2 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "(1+√2) cm"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "C6",
+      "description": "Für eine gegebene natürliche Zahl n ist die Primfaktorzerlegung von n!=1*2*...*n zu sehen. Einige Primzahlen und einige Exponenten sind verdeckt. Welcher Exponent gehört zum Primfaktor 17?",
+      "questionImage": "../pictures/2024/2024_910/pic_19.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "5"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "C9",
+      "description": "Nina hat einen Kreis mit 20 Punkten in 20 gleich lange Kreisbögen geteilt. Sie zeichnet alle Sehnen ein, die zwei dieser Punkte verbinden. Wie viele dieser Sehnen sind länger als der Radius, aber kürzer als der Durchmesser des Kreises?",
+      "questionImage": "../pictures/2024/2024_910/pic_20.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "90"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "100"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "120"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "140"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "160"
+        }
+      ],
+      "correct": "C"
+    }
+  ]
+}

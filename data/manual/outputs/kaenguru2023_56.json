@@ -1,0 +1,604 @@
+{
+  "metadata": {
+    "filename": "kaenguru2023_56.pdf",
+    "class": "5-6",
+    "date": "Donnerstag, 16. März 2023",
+    "requiredTime": "75 Minuten"
+  },
+  "instances": [
+    {
+      "id": "A2",
+      "description": "Aus Streichhölzern lassen sich wie im Bild die zehn Ziﬀern legen. Mit 7 Streichhölzern lässt sich so zum Beispiel die Zahl 15 legen, oder auch eine 8. Welches ist die größte Zahl, die mit 7 Streichhölzern gelegt werden kann?",
+      "questionImage": "../pictures/2023/2023_56/pic_1.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "51"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "74"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "331"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "711"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "840"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "A3",
+      "description": "Welche der fünf Figuren lässt sich nicht mit einer geraden Linie in zwei Dreiecke teilen?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_2.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_3.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_4.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_5.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_6.png"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "A4",
+      "description": "Rosalinde hat vier Puzzleteile 1–4. Aus welchen beiden Teilen lässt sich das Sechseck legen?",
+      "questionImage": "../pictures/2023/2023_56/pic_7.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1 und 2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "1 und 3"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "2 und 3"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "2 und 4"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "1 und 4"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "A5",
+      "description": "Um ein Paket sind vier Bänder M, N, O und P geklebt. In welcher Reihenfolge wurden die Bänder geklebt?",
+      "questionImage": "../pictures/2023/2023_56/pic_8.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "M, P, O, N"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "O, M, P, N"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "N, P, M, O"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "M, O, N, P"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "P, N, M, O"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "A6",
+      "description": "Knut hat 5 verschieden große runde Scheiben. Er baut aus 4 Scheiben einen Turm, von unten nach oben immer kleiner. Wie viele verschiedene Türme sind möglich?",
+      "questionImage": "../pictures/2023/2023_56/pic_9.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "9"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "12"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "20"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "A7",
+      "description": "Edgar klebt drei Papierteile auf eine schwarze Kreisscheibe. Welche Abbildung kann NICHT entstehen?",
+      "questionImage": "../pictures/2023/2023_56/pic_10.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_11.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_12.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_13.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_14.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_15.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "B1",
+      "description": "Hase, Biber und Känguru springen auf einer Ringbahn (Start A, Ziel Z). Hase: jedes 3. Feld, Biber: jedes Feld, Känguru: jedes 5. Feld. Wer braucht die FEWESTEN Sprünge bis Z?",
+      "questionImage": "../pictures/2023/2023_56/pic_16.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "das Känguru"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "der Biber"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "das Känguru und der Biber"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "der Hase"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "Alle drei gleich viele"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "B2",
+      "description": "Drehscheibe mit drei Löchern liegt auf Ziffernblatt 1–12. Welche drei Zahlen können gleichzeitig gesehen werden?",
+      "questionImage": "../pictures/2023/2023_56/pic_17.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "2, 4 und 9"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "1, 5 und 10"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "4, 6 und 12"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "3, 6 und 9"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "5, 7 und 12"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "B4",
+      "description": "Rechteck aus Quadraten dreier Größen (Seitenlänge der größten Quadrate 6 cm). Wie lang ist der dick gezeichnete Streckenzug?",
+      "questionImage": "../pictures/2023/2023_56/pic_18.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "38 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "40 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "42 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "44 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "48 cm"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "B5",
+      "description": "Lamia schreibt drei aufeinanderfolgende zweistellige Zahlen der Größe nach auf. Sie beginnt mit der kleinsten Zahl. Anstelle der Ziﬀern benutzt Lamia Symbole. Welche Zahl ist die nächstgrößere?",
+      "questionImage": "../pictures/2023/2023_56/pic_19.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_20.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_21.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_22.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_23.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_24.png"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "B6",
+      "description": "Fünf benachbarte Flächen sollen mit drei Farben (rot, blau, gelb) so gefärbt werden, dass angrenzende Flächen verschiedene Farben haben. Wie viele Möglichkeiten?",
+      "questionImage": "../pictures/2023/2023_56/pic_24.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "7"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "B7",
+      "description": "In 10 Kreisen stehen Zahlen. Summe der weißen Kreise soll der Summe der grauen entsprechen. Welche zwei Zahlen müssen getauscht werden?",
+      "questionImage": "../pictures/2023/2023_56/pic_26.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "2 und 8"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "7 und 13"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "3 und 7"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "4 und 13"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "1 und 11"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "B8",
+      "description": "Bauplan für Türme aus dunklen Würfeln ist gegeben. Wie müssen die hellen Würfel aufgebaut werden?",
+      "questionImage": "../pictures/2023/2023_56/pic_27.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_28.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_29.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_30.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_31.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_32.png"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "C1",
+      "description": "Wenn ich im Bad in den Spiegel gucke, sehe ich darin die Uhr, die hinter mir hängt. Was würde ich 30 Minuten später in dem Spiegel sehen?",
+      "questionImage": "../pictures/2023/2023_56/pic_33.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_34.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_35.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_36.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_37.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_38.png"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "C2",
+      "description": "Tian zeichnet in alle 6 Boxen rechts kleine Figuren. In jeder Box sollen die Figuren genau so oft auftauchen wie zusammen in den beiden Boxen direkt darunter. Drei Boxen sind schon fertig. Wie muss die Box in der Mitte der unteren Reihe aussehen?",
+      "questionImage": "../pictures/2023/2023_56/pic_39.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_40.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_41.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_42.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_43.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_56/pic_44.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "C3",
+      "description": "Für ein Kinderfest soll für Wettbewerbe ein 120mlanger Weg textmit Markierstangen in gleich lange Abschnitte geteilt werden. Vier Stangen sind wie im Bild bereits aufgestellt. Wie viele Stangen müssen mindestens dazukommen?",
+      "questionImage": "../pictures/2023/2023_56/pic_45.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "12"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "15"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "17"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "23"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "37"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "C5",
+      "description": "Ein kleiner Roboter hat einen Weg vom Start (S) zum Ziel (Z) entlang der weißen Felder gefunden. Jedes weiße Feld musste er genau einmal betreten. Die dunklen Felder hat er nicht betreten. Welches der Felder musste er nach dem mit X markierten Feld als nächstes betreten?",
+      "questionImage": "../pictures/2023/2023_56/pic_46.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "M"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "N"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "O"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "P"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "Es gibt mehrere Möglichkeiten."
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "C6",
+      "description": "Kerim hat zwei Plättchen, auf denen jeweils vorn und hinten eine Zahl steht. Auf einem ist vorn eine 7, auf dem anderen ist vorn eine 10. Wenn Kerim beide Plättchen wirft und die oben liegenden Zahlen addiert, erhält er entweder 11, 12, 16 oder 17 – je nachdem, welche Seiten oben liegen. Wie viele Möglichkeiten gibt es für die Zahl, die auf der Rückseite des großen Plättchens mit der 7 steht?",
+      "questionImage": "../pictures/2023/2023_56/pic_47.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "eine"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "zwei"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "drei"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "fünf"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "sieben"
+        }
+      ],
+      "correct": "B"
+    }
+  ]
+}

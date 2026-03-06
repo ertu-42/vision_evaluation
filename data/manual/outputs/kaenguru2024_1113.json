@@ -1,0 +1,472 @@
+{
+  "metadata": {
+    "filename": "kaenguru2024_1113.pdf",
+    "class": "11-13",
+    "date": "Donnerstag, 18. April 2024",
+    "requiredTime": "75 Minuten"
+  },
+  "instances": [
+    {
+      "id": "A1",
+      "description": "Welches der folgenden Teile passt so in die Mitte des Puzzles, dass dabei eine sich kreuzende, geschlossene Linie entsteht?",
+      "questionImage": "../pictures/2024/2024_1113/pic_1.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2024/2024_1113/pic_2.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2024/2024_1113/pic_3.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2024/2024_1113/pic_4.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2024/2024_1113/pic_5.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2024/2024_1113/pic_6.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "A2",
+      "description": "Mattis hat eine Pizza in sechs gleich große Stücke geschnitten. Nachdem er ein Stück gegessen hat, ordnet er die restlichen Stücke so an, dass die Lücken zwischen benachbarten Stücken alle gleich groß sind. Wie groß ist jeweils der Winkel zwischen zwei benachbarten Stücken?",
+      "questionImage": "../pictures/2024/2024_1113/pic_7.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "5 Grad"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "8 Grad"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "9 Grad"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "10 Grad"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "12 Grad"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "A4",
+      "description": "Annika möchte alle dreieckigen und quadratischen Gebiete in der Abbildung ausmalen. Dabei sollen Gebiete, die an mindestens einem Punkt aneinandergrenzen, verschiedene Farben haben. Was ist die kleinste Anzahl an Farben, die Annika benötigt?",
+      "questionImage": "../pictures/2024/2024_1113/pic_8.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "7"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "A5",
+      "description": "Patricia hat ein ungewöhnliches Koordinatensystem gezeichnet. Die x -Achse zeigt nach links und die y -Achse nach unten. Wie sieht der Graph der Funktion f mit y=f(x)=x+1 in diesem Koordinatensystem aus?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2024/2024_1113/pic_9.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2024/2024_1113/pic_10.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2024/2024_1113/pic_11.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2024/2024_1113/pic_12.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2024/2024_1113/pic_13.png"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "A8",
+      "description": "Eren stellt 6 Gläser wie abgebildet auf den Tisch. In einem Schritt sucht er sich genau 4 dieser Gläser aus und dreht sie alle um. Was ist die kleinste Anzahl an Schritten, die Eren braucht, damit am Ende alle 6 Gläser verkehrt herum auf dem Tisch stehen?",
+      "questionImage": "../pictures/2024/2024_1113/pic_14.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "6"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "A9",
+      "description": "Sowohl die schwarze als auch die graue Linie teilen die abgebildete Fläche jeweils in zwei gleich große Teile. A, B, C und D sind die Flächeninhalte der vier mittleren Gebiete. Welche Aussage ist sicher richtig?",
+      "questionImage": "../pictures/2024/2024_1113/pic_15.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "A + B = C + D"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "A + C = B + D"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "A = D"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "C = A + B + D"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "A + D = B + C"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B3",
+      "description": "Die Pyramide ABCD hat die Kantenlängen |AD| = 5 cm, |AC| = 6 cm, |AB| = 7 cm, |CD| = 8 cm, |BD| = 9 cm, |BC| = 10 cm. Die Punkte M, N, P , Q, R und S sind die Mittelpunkte der Kanten. Wie lang ist der eingezeichnete Rundweg MNPQRSM?",
+      "questionImage": "../pictures/2024/2024_1113/pic_16.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "19 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "20 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "21 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "22 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "23 cm"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "B5",
+      "description": "In ein Quadrat mit Seitenlänge 6 cm wurden eine Diagonale, ein Halbkreis und ein Viertelkreis eingezeichnet (s. Abb.). Welchen Flächeninhalt hat die graue Fläche?",
+      "questionImage": "../pictures/2024/2024_1113/pic_17.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "9 cm^2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "3π cm^2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "(10/3)π cm^2"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "12 cm^2"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "(6π − 9) cm^2"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "B7",
+      "description": "Rechts sind vier Quadrate abgebildet. Die Seitenlängen der drei kleinen Quadrate sind a, b und c. Welche Seitenlänge hat das große Quadrat?",
+      "questionImage": "../pictures/2024/2024_1113/pic_18.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1/2*(a+b+c)"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "√(a² + b² + c²)"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "√((a + b)² + c²)"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "√((b − a)² + c²)"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "√(ab + bc + ac)"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "B10",
+      "description": "Henriette hat mehrere 12-seitige Spielwürfel. Die Seitenflächen sind mit den Zahlen von 1 bis 12 beschriftet. Wenn Henriette alle Spielwürfel gleichzeitig würfelt, ist die Wahrscheinlichkeit, dass genau einer der Spielwürfel eine 12 zeigt, genauso groß wie die Wahrscheinlichkeit, dass keiner der Spielwürfel eine 12 zeigt. Wie viele 12-seitige Spielwürfel hat Henriette?",
+      "questionImage": "../pictures/2024/2024_1113/pic_19.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "11"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "18"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "23"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "C1",
+      "description": "Joseph hat seiner Nichte zum zweiten Geburtstag ein Kinder-Klavier geschenkt. Sie probiert es gleich aus und schlägt wieder und wieder mit der ganzen Hand auf die Tasten. Dabei drückt sie immer 4 benachbarte weiße Tasten auf einmal. Das d drückt sie insgesamt 30 Mal, das e 42 Mal, das a 36 Mal und das hohe c 17 Mal. Wie oft hat sie das h gedrückt?",
+      "questionImage": "../pictures/2024/2024_1113/pic_20.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "19 Mal"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "24 Mal"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "27 Mal"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "32 Mal"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "35 Mal"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "C3",
+      "description": "Tristan hat sechs Karten, bei denen auf der Vorderseite und auf der Rückseite jeweils eine Zahl steht. Die Zahlenpaare auf den sechs Karten sind (5,12), (3,11), (0,16), (7,8), (4,14) und (9,10). Tristan legt diese sechs Karten auf die abgebildeten freien Felder. Was ist das kleinste Ergebnis, das die Rechnung haben kann?",
+      "questionImage": "../pictures/2024/2024_1113/pic_21.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "−24"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "−25"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "−26"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "−27"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "−28"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "C6",
+      "description": "Ein rechteckiger Papierstreifen ist 12 cm lang und 2 cm breit. Das rechte Ende soll an einer Stelle so gefaltet werden, dass es senkrecht nach unten zeigt. Was ist der kleinste Abstand, den die Eckpunkte X und Y nach dem Falten haben können?",
+      "questionImage": "../pictures/2024/2024_1113/pic_22.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "6√2 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "7√2 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "10 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "8 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "(6+√2) cm"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "C9",
+      "description": "Auf einem Kreis wurden 12 Punkte eingezeichnet, die den Kreis in 12 gleich lange Bögen teilen. Wie viele Dreiecke gibt es, deren Eckpunkte 3 der vorgegebenen Punkte sind und die mindestens einen Innenwinkel haben, der 45 Grad groß ist?",
+      "questionImage": "../pictures/2024/2024_1113/pic_23.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "48"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "60"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "72"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "84"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "96"
+        }
+      ],
+      "correct": "D"
+    }
+  ]
+}

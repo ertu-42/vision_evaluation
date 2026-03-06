@@ -1,0 +1,505 @@
+{
+  "metadata": {
+    "filename": "kaenguru2023_1113.pdf",
+    "class": "11-13",
+    "date": "Donnerstag, 16. März 2023",
+    "requiredTime": "75 Minuten"
+  },
+  "instances": [
+    {
+      "id": "A3",
+      "description": "Neven zeichnet mit seinem Smartphone seinen Weg zur Schule auf und erhält das rechts abgebildete Geschwindigkeit-Zeit-Diagramm. Nevens Weg ist in die Abschnitte 1 bis 5 unterteilt. Diese sind in den Antworten beschrieben. Was tut Neven in Abschnitt 5?",
+      "questionImage": "../pictures/2023/2023_1113/pic_1.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "Neven fährt Bus."
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "Neven rennt."
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "Neven geht."
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "Neven wartet."
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "Neven fährt Zug."
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "A4",
+      "description": "Der rechts abgebildete Zylinder ist 15 cm hoch und der Umfang seiner Grundfläche beträgt 30 cm. Der abgebildete Weg von A nach B auf der Oberfläche des Zylinders verläuft immer senkrecht nach oben oder horizontal, also parallel zur Grundfläche. Wie lang ist dieser Weg?",
+      "questionImage": "../pictures/2023/2023_1113/pic_2.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "45 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "55 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "60 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "65 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "75 cm"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "A6",
+      "description": "Liane möchte die drei Streifen der Fahne ausmalen. Sie hat Stifte in drei verschiedenen Farben. Jeder Streifen soll mit einer einzigen Farbe ausgemalt werden. Benachbarte Streifen sollen verschiedene Farben haben. Wie viele Möglichkeiten hat Liane dafür?",
+      "questionImage": "../pictures/2023/2023_1113/pic_3.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "10"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "12"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "16"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "18"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "A8",
+      "description": "Die beiden großen, übereinanderliegenden Dreiecke im Bild sind gleichseitig. Gegenüberliegende Seiten des Sechsecks in der Mitte sind jeweils parallel zueinander. Von fünf Sechseckseiten sind die Längen in cm angegeben. Wie lang ist die sechste Sechseckseite?",
+      "questionImage": "../pictures/2023/2023_1113/pic_4.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "16 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "17 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "18 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "19 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "20 cm"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B1",
+      "description": "Leonard hat auf einen Quader eine geschlossene Linie gemalt. Wie könnte das Netz dieses Quaders aussehen?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2023/2023_1113/pic_5.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2023/2023_1113/pic_6.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2023/2023_1113/pic_7.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2023/2023_1113/pic_8.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2023/2023_1113/pic_9.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "B3",
+      "description": "Ein Quadrat mit 84 cm^2 Flächeninhalt wird in vier Quadrate unterteilt und das Quadrat links oben wird schwarz gefärbt. Dann wird das Quadrat rechts unten in vier Quadrate unterteilt und von diesen das linke obere schwarz gefärbt. Dieser Ablauf wird immer wieder wiederholt. Wie groß wäre der Flächeninhalt der schwarzen Fläche, wenn das unendlich oft wiederholt werden würde?",
+      "questionImage": "../pictures/2023/2023_1113/pic_10.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "28 cm^2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "31 cm^2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "32 cm^2"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "34 cm^2"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "37 cm^2"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "B5",
+      "description": "Die sechs Kanten der dreiseitigen Pyramide im Bild haben in cm eine ganzzahlige Länge. Vier der Längen sind angegeben. Wie lang ist die Kante AC?",
+      "questionImage": "../pictures/2023/2023_1113/pic_11.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "3 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "4 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "5 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "6 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "7 cm"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "B7",
+      "description": "Vor dem Kochen stehen Pascals Gewürze wie abgebildet im Regal. Pascal kocht ein Chili sin Carne und stellt danach alle Gewürze wahllos wieder zurück. Am Ende steht ein Gewürz 4 Positionen weiter links und ein anderes 3 Positionen weiter rechts als zu Beginn. Auch am Ende steht der Zimt weiter links als der Ingwer. Nur ein Gewürz steht wieder genau dort, wo es zu Beginn stand. Welches?",
+      "questionImage": "../pictures/2023/2023_1113/pic_12.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "Chili"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "Muskat"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "Zimt"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "Ingwer"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "Pfeffer"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "B9",
+      "description": "Ein Tetraeder ist mit den Zahlen von 1 bis 4 beschriftet. Es wird mit der 1 auf das Feld Start gelegt, das rechts abgebildet ist. Dann wird es von Feld zu Feld bewegt, indem es jeweils über eine Kante gekippt wird. Auf welchem Feld liegt das Tetraeder zum ersten Mal wieder mit der 1?",
+      "questionImage": "../pictures/2023/2023_1113/pic_13.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "A"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "B"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "C"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "D"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "E"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "B10",
+      "description": "In die sieben Felder sollen die Zahlen von 1 bis 7 so eingetragen werden, dass die Summe der Zahlen in drei benachbarten Feldern überall ein Vielfaches von 3 ist. Die 2 und die 6 wurden schon eingetragen. Wie viele Möglichkeiten gibt es nun, die anderen fünf Zahlen einzutragen?",
+      "questionImage": "../pictures/2023/2023_1113/pic_14.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "9"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "12"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "C1",
+      "description": "Die Zahlen von 1 bis 999 werden aufsteigend in Form einer Spirale angeordnet (s. Abb.). Wie sind die Zahlen 225, 226 und 227 darin angeordnet?",
+      "questionImage": "../pictures/2023/2023_1113/pic_15.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "../pictures/2023/2023_1113/pic_16.png"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "../pictures/2023/2023_1113/pic_17.png"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "../pictures/2023/2023_1113/pic_18.png"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "../pictures/2023/2023_1113/pic_19.png"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "../pictures/2023/2023_1113/pic_20.png"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "C2",
+      "description": "In die Sechsecke sollen die Zahlen von 1 bis 11 geschrieben werden. Dabei soll die Summe der drei Zahlen in den Sechsecken um einen schwarzen Punkt bei allen sechs Punkten die gleiche sein. Drei Zahlen wurden schon eingetragen. Welche Zahl muss in das Sechseck mit dem Fragezeichen geschrieben werden?",
+      "questionImage": "../pictures/2023/2023_1113/pic_21.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "7"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "9"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "C4",
+      "description": "Das große Fünfeck im Bild wurde in sieben Teile zerlegt. Die Zahlen in den Dreiecken geben jeweils deren Flächeninhalt in cm^2 an. Welchen Flächeninhalt hat das graue Viereck?",
+      "questionImage": "../pictures/2023/2023_1113/pic_22.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "15 cm^2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "16 cm^2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "17 cm^2"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "18 cm^2"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "19 cm^2"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "C7",
+      "description": "Ein großes Quadrat ist in vier kleinere Quadrate zerteilt. Ein Kreis im Inneren des Quadrats berührt den Mittelpunkt der rechten Seite des großen Quadrats. Welche Seitenlänge hat das große Quadrat? (Abb. nicht maßstabsgerecht)",
+      "questionImage": "../pictures/2023/2023_1113/pic_23.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "18 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "20 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "24 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "28 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "30 cm"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "C10",
+      "description": "Zwei identische zylinderförmige Gläser enthalten dieselbe Menge Wasser. Der Flächeninhalt der Grundfläche der Gläser ist jeweils 12π cm^2. Das rechte Glas wird so weit gekippt, dass der Boden gerade noch vollständig mit Wasser bedeckt ist (s. Abb.). Das Wasser steht in beiden Gläsern gleich hoch. Wie viel Wasser befindet sich in einem Glas?",
+      "questionImage": "../pictures/2023/2023_1113/pic_24.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "54π cm^3"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "60π cm^3"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "72π cm^3"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "81π cm^3"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "96π cm^3"
+        }
+      ],
+      "correct": "C"
+    }
+  ]
+}

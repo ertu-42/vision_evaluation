@@ -1,0 +1,670 @@
+{
+  "metadata": {
+    "filename": "kaenguru2025_56.pdf",
+    "class": "5-6",
+    "date": "Donnerstag, 20. März 2025",
+    "requiredTime": "75 Minuten"
+  },
+  "instances": [
+    {
+      "id": "A1",
+      "description": "Emil belegt eine Pizza. Er verteilt die Zutaten Sorte für Sorte, eine nach der anderen. Die fertige Pizza ist im Bild zu sehen. Welche Zutat hat Emil als letztes verteilt?",
+      "questionImage": "../pictures/2025/2025_56/pic_1.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_2.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_3.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_4.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_5.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_6.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "A2",
+      "description": "Zum Stadtfest wurde auf dem Stadttor mit großen Ziffern die Jahreszahl aufgebaut. Was ist von der anderen Seite zu sehen?",
+      "questionImage": "../pictures/2025/2025_56/pic_7.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_8.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_9.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_10.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_11.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_12.png"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "A3",
+      "description": "Welches der abgebildeten Teile passt in das Muster?",
+      "questionImage": "../pictures/2025/2025_56/pic_13.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_14.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_15.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_16.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_17.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_18.png"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "A4",
+      "description": "Im Regal mit dem selbstgepressten Apfelsaft sollen auf jedem der drei Bretter gleich viele Flaschen stehen. Dafür müssen einige Flaschen vom oberen und vom mittleren Brett auf das untere Brett gestellt werden. Wie viele Flaschen müssen vom mittleren Brett genommen werden?",
+      "questionImage": "../pictures/2025/2025_56/pic_19.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "5"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "A5",
+      "description": "Maja dreht ein sechseckiges Blatt Papier schrittweise immer ein Feld im Uhrzeigersinn. Die Ausgangslage und die Lage nach dem 1. Schritt sind im Bild abgebildet. Wie sieht das Blatt nach dem 8. Schritt aus?",
+      "questionImage": "../pictures/2025/2025_56/pic_20.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_21.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_22.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_23.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_24.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_25.png"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "A6",
+      "description": "Vor meinem Lieblings-Burger-Restaurant steht eine Tafel mit der Speisekarte. Der Regen hat einige der Zahlen weggewaschen. Die Burger sind nach ihrem Preis geordnet. Welcher der folgenden Preise ist der Preis für einen der Burger?",
+      "questionImage": "../pictures/2025/2025_56/pic_26.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "4,60"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "4,80"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "5,30"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "5,80"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "6,30"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "A7",
+      "description": "Bücherwurm Lin frisst sich in 2 Stunden durch 1 Buch. Bücherwurm Ron benötigt für 1 Buch nur 1 Stunde. Sie beginnen gleichzeitig zu fressen. In einem der Bücher treffen sie sich. In welchem?",
+      "questionImage": "../pictures/2025/2025_56/pic_27.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "in A"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "in B"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "in C"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "in D"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "in E"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "A8",
+      "description": "Auf einen Würfel wurden quadratische schwarze Aufkleber geklebt: einer auf jede Kante und einer in die Mitte jeder Seite. Alle Seiten des Würfels sehen gleich aus. Wie viele Aufkleber wurden insgesamt verwendet?",
+      "questionImage": "../pictures/2025/2025_56/pic_28.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "24"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "20"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "18"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "16"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "14"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "B1",
+      "description": "Im Behälter A befinden sich 16 Liter Wasser. Die vier Stöpsel im Behälter A werden gleichzeitig herausgezogen und das Wasser fließt gleichmäßig ab. Wie viel Wasser kommt so insgesamt im Behälter B an?",
+      "questionImage": "../pictures/2025/2025_56/pic_29.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "9 Liter"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "10 Liter"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "11 Liter"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "12 Liter"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "13 Liter"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B2",
+      "description": "Vier der folgenden fünf Figuren sind so oder gedreht im Bild zu finden. Welche Figur kann dort nicht gefunden werden?",
+      "questionImage": "../pictures/2025/2025_56/pic_30.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_31.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_32.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_33.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_34.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_35.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "B3",
+      "description": "Die fünf besten Schwimmer meiner Schule trainieren für einen Staffel-Wettkampf. Sie schwimmen direkt nacheinander dieselbe Strecke. Die Trainerin stoppt bei den Wechseln die Zwischenzeiten. Genau 10 Minuten und 3 Sekunden nach dem Start beendet der fünfte Schwimmer seine Strecke. Welcher Schwimmer benötigte für seine Strecke die wenigste Zeit?",
+      "questionImage": "../pictures/2025/2025_56/pic_36.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "der erste"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "der zweite"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "der dritte"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "der vierte"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "der fünfte"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "B4",
+      "description": "Die abgebildete Figur besteht aus gleich großen Quadraten. Sie soll durch einen geraden Schnitt durch den Punkt S in zwei Teile mit dem gleichen Flächeninhalt zerschnitten werden. Durch welchen Punkt verläuft dieser Schnitt noch?",
+      "questionImage": "../pictures/2025/2025_56/pic_37.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "A"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "B"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "C"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "D"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "E"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "B5",
+      "description": "Ali hat einen Turm aus Bauklötzen gebaut. Nun schreibt er auf jeden Klotz eine Zahl. Jede Zahl im Turm soll um mindestens 2 größer sein als die Zahl direkt darunter. Auf wie viele Arten kann Ali die beiden leeren Klötze beschriften?",
+      "questionImage": "../pictures/2025/2025_56/pic_38.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "7"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "3"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B6",
+      "description": "Auf jedem der folgenden Zettel stehen zwei 2-stellige Zahlen. Eine Ziffer ist jeweils durch einen Tintenklecks verdeckt. Nur auf einem Zettel ist die Summe der Ziffern der linken Zahl gleich der Summe der Ziffern der rechten Zahl. Welcher Zettel ist das?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_39.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_40.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_41.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_42.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_43.png"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "B8",
+      "description": "Die folgenden Glücksräder sind jeweils in gleich große Teile unterteilt. Um zu gewinnen, muss das Rad nach dem Drehen so anhalten, dass der Pfeil auf ein schwarzes Feld zeigt. Bei welchem Rad ist die Gewinnchance am größten?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_44.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_45.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_46.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_47.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_48.png"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "C2",
+      "description": "In das Gitter im Bild soll in jedes Feld eine 0 oder eine 1 geschrieben werden. Eine 0 ist bereits eingetragen. Am Ende soll die Summe der vier Zahlen in jeder Zeile, in jeder Spalte und in jeder der beiden Diagonalen 3 sein. Welche Summe haben dann die vier Zahlen in den grauen Feldern?",
+      "questionImage": "../pictures/2025/2025_56/pic_49.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "0"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "1"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "4"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "C3",
+      "description": "Ich zerschneide die abgebildete Figur entlang der Linien in fünf Teile. Die fünf Teile bestehen alle aus drei Quadraten und haben dieselbe Form. Welcher Buchstabe befindet sich auf dem Teil mit dem Stern?",
+      "questionImage": "../pictures/2025/2025_56/pic_50.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "A"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "B"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "C"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "D"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "E"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "C4",
+      "description": "Tino stellt die drei rechts abgebildeten Bausteine zu einem Bauwerk zusammen. Wie könnte es aussehen?",
+      "questionImage": "../pictures/2025/2025_56/pic_51.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_52.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_53.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_54.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_55.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_56.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "C6",
+      "description": "Einige Blöcke sind wie abgebildet auf drei Waagen verteilt. Alle drei Waagen sind im Gleichgewicht. Sehen zwei Blöcke gleich aus, so haben sie auch das gleiche Gewicht. Bei welcher der folgenden Reihenfolgen sind die Blöcke von links nach rechts von leicht zu schwer geordnet?",
+      "questionImage": "../pictures/2025/2025_56/pic_57.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_58.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_59.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_60.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_61.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_56/pic_62.png"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "C8",
+      "description": "Lotte findet auf einer Wiese 3-blättrige, 4-blättrige und sogar 5-blättrige Kleeblätter. Für ihre Mutter möchte sie einen Kleeblatt-Strauß mit insgesamt 23 Blättern pflücken. Wie viele verschiedene solche Sträuße gibt es?",
+      "questionImage": "../pictures/2025/2025_56/pic_63.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "7"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "4"
+        }
+      ],
+      "correct": "B"
+    }
+  ]
+}

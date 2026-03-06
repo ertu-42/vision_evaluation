@@ -1,0 +1,703 @@
+{
+  "metadata": {
+    "filename": "kaenguru2025_34.pdf",
+    "class": "3-4",
+    "date": "Donnerstag, 20. März 2025",
+    "requiredTime": "75 Minuten"
+  },
+  "instances": [
+    {
+      "id": "A1",
+      "description": "Selina lässt ihr Windrad drehen. Im Bild ist es zu sehen. Auf welchem der folgenden Bilder ist Selinas Windrad zu sehen?",
+      "questionImage": "../pictures/2025/2025_34/pic_1.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_2.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_3.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_4.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_5.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_6.png"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "A2",
+      "description": "Isabell hat auf der Eisbahn einen Handschuh verloren. Wie verlaufen die Spuren unter dem Handschuh?",
+      "questionImage": "../pictures/2025/2025_34/pic_7.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_8.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_9.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_10.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_11.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_12.png"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "A3",
+      "description": "Im Bad stehen die Zahnputzbecher so, wie rechts zu sehen ist. Max tauscht erst den größten und den kleinsten Becher und anschließend die beiden gestreiften. Wie stehen die Zahnputzbecher jetzt?",
+      "questionImage": "../pictures/2025/2025_34/pic_13.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_14.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_15.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_16.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_17.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_18.png"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "A4",
+      "description": "Simona will die vier Ziffern 2, 0, 2, 5 in die vier Kästchen schreiben und dann das Ergebnis ausrechnen. Bei welcher Reihenfolge erhält sie das größte Ergebnis?",
+      "questionImage": "../pictures/2025/2025_34/pic_19.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "0, 2, 2, 5"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "0, 5, 2, 2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "2, 5, 2, 0"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "5, 0, 2, 2"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "5, 2, 0, 2"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "A5",
+      "description": "Lukas hat den Würfel Im Bild gebaut. Seine Schwester hat fotografiert, wie der Würfel entstanden ist. Sie hat nacheinander die 5 unten abgebildeten Fotos gemacht. Welches Foto hat sie als 4. Foto gemacht?",
+      "questionImage": "../pictures/2025/2025_34/pic_20.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_21.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_22.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_23.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_24.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_25.png"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "A6",
+      "description": "Igel Ingmar läuft vom Laubhaufen zum Apfelbaum nach der Regel 2 hoch, 1 links-unten, 3 links, 2 links-oben (siehe Bild). Vom Baum läuft er nach der Regel 2 rechts, 1 rechts-unten, 2 rechts-oben, 1 hoch weiter. Wo kommt er an?",
+      "questionImage": "../pictures/2025/2025_34/pic_26.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_27.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_28.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_29.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_30.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_31.png"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "A7",
+      "description": "Bei welchem Seil erhalten wir einen Knoten, wenn wir an den beiden Enden ziehen?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_32.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_33.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_34.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_35.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_36.png"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "B1",
+      "description": "Die drei abgebildeten Stäbe werden sternförmig übereinandergelegt. Wie könnte das aussehen?",
+      "questionImage": "../pictures/2025/2025_34/pic_37.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_38.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_39.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_40.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_41.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_42.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "B2",
+      "description": "In ihrem Kaufladen bezahlen Samuel und Alina mit Schneckenhäusern und Steinchen. Ein Schneckenhaus hat den Wert 6 und ein Steinchen den Wert 1. Samuels voller Einkaufskorb hat den Wert 16. Wie könnte Samuel passend bezahlen?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_43.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_44.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_45.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_46.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_47.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "B3",
+      "description": "Welche beiden Teile wurden aus dem Schachbrett ausgeschnitten?",
+      "questionImage": "../pictures/2025/2025_34/pic_48.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1 und 2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "1 und 5"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "3 und 4"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "3 und 5"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "4 und 5"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B4",
+      "description": "Vor mir liegen 5 Karten in einer Reihe. Ich nehme 2 der Karten weg und schiebe die restlichen zusammen, ohne die Reihenfolge zu ändern. Wie könnte die Kartenreihe nun aussehen?",
+      "questionImage": "../pictures/2025/2025_34/pic_49.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_50.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_51.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_52.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_53.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_54.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "B5",
+      "description": "Emma, Mathilde und Cem haben Kekse in Känguru-Form gebacken. Ein paar haben sie schon verteilt, wie im Bild. Nun sollen die restlichen 12 Kekse verteilt werden. Am Ende sollen alle gleich viele Kekse haben. Wie viele von den 12 Keksen bekommt Emma?",
+      "questionImage": "../pictures/2025/2025_34/pic_55.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "9"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "10"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "B6",
+      "description": "Julian teilt sich mit seinem Bruder eine Pizza. Er will sie entlang einer der Linien halbieren, aber so, dass jeder gleich viele kleinen Tomaten bekommt. Entlang welcher der Linien kann Julian teilen?",
+      "questionImage": "../pictures/2025/2025_34/pic_56.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1 oder 4"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "1 oder 3"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "2 oder 4"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "2 oder 3"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "3 oder 4"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "B7",
+      "description": "Im Streichelzoo holt Annabella vom Futterautomaten Futter für die 6 Schafe. Es sind genau 210 Gramm. ”Das kleinste Schaf muss noch wachsen“, meint Annabella. Sie gibt ihm doppelt so viel Futter wie jedem anderen Schaf. Wie viel Futter gibt Annabella dem kleinsten Schaf?",
+      "questionImage": "../pictures/2025/2025_34/pic_57.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "50 Gramm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "60 Gramm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "65 Gramm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "75 Gramm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "80 Gramm"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "C1",
+      "description": "Zur Verschönerung des Klassenraums basteln die Kinder 12 Marienkäfer. Zum Schluss kleben sie die Punkte auf. Immer 2 Käfer sollen gleich viele Punkte haben. Es sind 9 Käfer fertig. Wie viele Punkte werden für die letzten 3 Käfer insgesamt gebraucht?",
+      "questionImage": "../pictures/2025/2025_34/pic_58.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "9"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "10"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "11"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "12"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "C2",
+      "description": "Milo faltet ein quadratisches Blatt Papier zuerst nach unten und dann nach rechts. Dann schneidet er am Rand Stücke ab. Wenn er das Blatt wieder auseinanderfaltet, erhält er das rechts abgebildete Deckchen. Wie hat Milo das gefaltete Papier geschnitten?",
+      "questionImage": "../pictures/2025/2025_34/pic_59.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_60.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_61.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_62.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_63.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_64.png"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "C3",
+      "description": "Die sieben Zahlen 1, 2, 3, 4, 5, 6, 7 sollen so in die sieben Kreise geschrieben werden, dass die drei Rechnungen richtig sind. Die 6 ist bereits eingetragen. Welche Zahl gehört in den Kreis mit dem Stern?",
+      "questionImage": "../pictures/2025/2025_34/pic_65.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "7"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "C4",
+      "description": "In fünf Gefäßen befinden sich lauter gleich große Murmeln und Wasser. In den ersten drei Gefäßen steht das Wasser gleich hoch, in den beiden anderen steht es doppelt so hoch. Welches Gefäß enthält am wenigsten Wasser?",
+      "questionImage": "../pictures/2025/2025_34/pic_66.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "5"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "C5",
+      "description": "Mit schwarzen und grauen Würfeln wird die abgebildete Würfelpyramide gebaut. Würfel, die sich mit einer Seitenfläche berühren, sollen verschiedene Farben haben. Ganz oben soll ein schwarzer Würfel sein. Wie sieht die fertige Pyramide von oben aus?",
+      "questionImage": "../pictures/2025/2025_34/pic_67.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_68.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_69.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_70.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_71.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_34/pic_72.png"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "C7",
+      "description": "Zehn gleiche Bausteine wurden aufeinandergestellt. Das Bild zeigt die Ansicht von vorn. Wie lang ist die längste Kante eines solchen Bausteins?",
+      "questionImage": "../pictures/2025/2025_34/pic_73.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "18 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "19 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "20 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "21 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "22 cm"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "C8",
+      "description": "Am Eingang einer magischen Höhle sitzt ein Wächter. Vor ihm stehen zwei Balkenwaagen mit glänzenden Objekten darauf: Kugeln, Würfel und Sterne. ”Willst du eintreten, musst du mir das Gewicht der Würfel nennen“, tönt seine Stimme. ”Jedes Objekt ist entweder 1 kg, 2 kg, 3 kg, 4 kg oder 5 kg schwer. Bedenke: Objekte gleicher Form sind gleich schwer.“ Wie viel wiegt ein Würfel?",
+      "questionImage": "../pictures/2025/2025_34/pic_74.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1 kg"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "2 kg"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "3 kg"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "4 kg"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "5 kg"
+        }
+      ],
+      "correct": "C"
+    }
+  ]
+}

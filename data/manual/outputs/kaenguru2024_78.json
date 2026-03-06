@@ -1,0 +1,703 @@
+{
+  "metadata": {
+    "filename": "kaenguru2024_78.pdf",
+    "class": "7-8",
+    "date": "Donnerstag, 18. April 2024",
+    "requiredTime": "75 Minuten"
+  },
+  "instances": [
+    {
+      "id": "A1",
+      "description": "Welche der folgenden Schnüre kann nicht so gelegt werden wie die Schnur in der Abbildung, ohne sie zu zerschneiden?",
+      "questionImage": "../pictures/2024/2024_78/pic_1.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2024/2024_78/pic_2.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2024/2024_78/pic_3.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2024/2024_78/pic_4.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2024/2024_78/pic_5.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2024/2024_78/pic_6.png"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "A2",
+      "description": "Welches der folgenden Teile passt so in die Mitte des Puzzles, dass dabei zwei geschlossene Linien entstehen?",
+      "questionImage": "../pictures/2024/2024_78/pic_7.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2024/2024_78/pic_8.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2024/2024_78/pic_9.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2024/2024_78/pic_10.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2024/2024_78/pic_11.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2024/2024_78/pic_12.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "A4",
+      "description": "Julio schneidet wie abgebildet die vier Ecken eines Tetraeders ab. Wie viele Ecken hat der Körper, der übrig bleibt?",
+      "questionImage": "../pictures/2024/2024_78/pic_13.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "9"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "12"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "16"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "18"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "A5",
+      "description": "Margarethe möchte mit den drei abgebildeten Karten vierstellige Zahlen legen. Wie viele verschiedene vierstellige Zahlen sind möglich?",
+      "questionImage": "../pictures/2024/2024_78/pic_14.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "9"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "A7",
+      "description": "Familie Backe hat für nächsten Donnerstag fünf Termine beim Zahnarzt vereinbart. Sie haben in einer Tabelle angekreuzt, wer zu welchen Terminen Zeit hat. Tatsächlich können die fünf Termine für alle passend aufgeteilt werden. Wann wird Nils an der Reihe sein?",
+      "questionImage": "../pictures/2024/2024_78/pic_15.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "13:00"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "14:00"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "15:00"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "16:00"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "17:00"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "A8",
+      "description": "Elizas rundes Zelt ist rundherum gleichmäßig gemustert. Die einzelnen Flächen sind abwechselnd weiß und grau. Wie viele graue Flächen hat Elizas Zelt?",
+      "questionImage": "../pictures/2024/2024_78/pic_16.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "18"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "20"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "22"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "25"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "27"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "A9",
+      "description": "In die Kästchen der Figur rechts sollen vier verschiedene natürliche Zahlen eingetragen werden. Neben jeder Zeile und unter jeder Spalte ist angegeben, welches Produkt die beiden Zahlen in der jeweiligen Zeile bzw. Spalte haben sollen. Wie groß ist die Summe der vier Zahlen, die einzutragen sind?",
+      "questionImage": "../pictures/2024/2024_78/pic_17.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "16"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "15"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "14"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "13"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "12"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "A10",
+      "description": "An eine Raute wurden vier zueinander kongruente rechtwinklige Dreiecke angelegt. So ist ein Rechteck entstanden. Um wie viel Prozent ist die Fläche des Rechtecks größer als die Fläche der Raute?",
+      "questionImage": "../pictures/2024/2024_78/pic_18.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "um 40%"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "um 60%"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "um 75%"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "um 80%"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "um 100%"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "B1",
+      "description": "Aus den drei Teilen und einem weiteren Teil kann ein 4 4-Quadrat gelegt werden, bei dem die Summe der Zahlen in jeder der vier Zeilen und in jeder der vier Spalten dieselbe ist. Wie sieht das vierte Teil aus?",
+      "questionImage": "../pictures/2024/2024_78/pic_19.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2024/2024_78/pic_20.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2024/2024_78/pic_21.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2024/2024_78/pic_22.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2024/2024_78/pic_23.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2024/2024_78/pic_24.png"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "B3",
+      "description": "Auf einem Spielwürfel ist die Summe von zwei gegenüberliegenden Augenzahlen stets 7. Jamie bewegt den Würfel auf dem gezeichneten Weg, indem er ihn über seine Kanten kippt. Am Anfang ist die 4 oben. Welche Augenzahl ist oben, wenn der Würfel am Ende des Weges angelangt ist?",
+      "questionImage": "../pictures/2024/2024_78/pic_25.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "5"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "B4",
+      "description": "Denise hat einen Kuchen gebacken und ihn in 10 gleich große Stücke geschnitten. Ein Stück hat sie gleich aufgegessen. Die übrigen Stücke hat sie so angeordnet, dass die Lücken zwischen benachbarten Stücken alle gleich groß sind. Wie groß ist jeweils der Winkel zwischen zwei benachbarten Stücken?",
+      "questionImage": "../pictures/2024/2024_78/pic_26.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "5 Grad"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "4 Grad"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "3 Grad"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "2 Grad"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "1 Grad"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B5",
+      "description": "Marta möchte auf dem Kühlschrank mit dreieckigen Zahlenmagneten das Datum an jedem Tag des Jahres darstellen können. Dafür möchte sie jeweils vier Zahlenmagnete mit jeweils einer Ziﬀer verwenden. Die Magnete sollen mit einer Spitze nach oben zeigen und die Zahlen aufrecht zu lesen sein. Was ist die kleinste Anzahl von Magneten, mit denen sie das schaﬀen kann?",
+      "questionImage": "../pictures/2024/2024_78/pic_27.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "20"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "21"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "22"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "23"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "24"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "B6",
+      "description": "Im rechts abgebildeten Quadrat möchte Aila zwei weitere Kästchen schwarz ausmalen, sodass das Quadrat anschließend eine Symmetrieachse besitzt. Wie viele verschiedene Möglichkeiten hat Aila dafür?",
+      "questionImage": "../pictures/2024/2024_78/pic_28.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "8"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "B8",
+      "description": "Per hat ein großes Rechteck in vier kleinere Rechtecke zerschnitten. Der Umfang von drei der kleinen Rechtecke ist im Bild angegeben. Welchen Umfang hat das vierte kleine Rechteck?",
+      "questionImage": "../pictures/2024/2024_78/pic_29.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "6 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "8 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "10 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "12 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "14 cm"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "B10",
+      "description": "In der Figur rechts liegen die Punkte P, Q und R auf einer Geraden. Das Dreieck PQT ist rechtwinklig. Das Dreieck QST ist gleichseitig. Das Dreieck QRS ist gleichschenklig mit den Schenkeln QR und QS. Der Winkel SRQ ist 41 Grad groß. Wie groß ist der Winkel PTS?",
+      "questionImage": "../pictures/2024/2024_78/pic_30.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "125 Grad"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "126 Grad"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "127 Grad"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "128 Grad"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "129 Grad"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "C1",
+      "description": "Vier Piraten haben bei Kerzenschein gezählt, wie viele Gold-, Silber- und Bronzemünzen sie erbeutet haben. Als Kapitän Flint spät in der Nacht kontrollieren will, huschen vier neugierige Geckos schnell von den Notizen. Nur einer der Piraten hat alles richtig gezählt. Die anderen haben bei jeder Sorte falsch gezählt. Insgesamt sind es 30 Münzen. Wie viele Goldmünzen haben die Piraten erbeutet?",
+      "questionImage": "../pictures/2024/2024_78/pic_31.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "7"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "9"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "10"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "11"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "C3",
+      "description": "Amir hat viele gleich große Würfel. Er nimmt einen Würfel und klebt 6 Würfel so an, dass alle seine Seitenflächen vollständig verdeckt sind. Nun möchte er an den neuen Körper zusätzliche Würfel so kleben, dass dessen Seitenflächen alle verdeckt sind. Wie viele zusätzliche Würfel benötigt Amir dafür mindestens?",
+      "questionImage": "../pictures/2024/2024_78/pic_32.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "18"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "16"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "14"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "12"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "10"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "C5",
+      "description": "Vier ganz ineinandergeschobene Einkaufswagen sind 156 cm lang, und zehn ganz ineinandergeschobene Einkaufswagen sind 264 cm lang. Wie lang ist ein solcher Einkaufswagen?",
+      "questionImage": "../pictures/2024/2024_78/pic_33.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "94 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "96 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "98 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "100 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "102 cm"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "C7",
+      "description": "Drei Halbkreise berühren einander und das Rechteck, dessen längere Seite 36 cm lang ist. Die Abstände des mittelgroßen und des kleinen Halbkreises zur oberen langen Rechtecksseite betragen 5 cm und 7 cm. Wie groß ist der Umfang des Rechtecks? (Abbildung nicht maßstabsgerecht)",
+      "questionImage": "../pictures/2024/2024_78/pic_34.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "98 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "96 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "94 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "92 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "90 cm"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "C8",
+      "description": "Donggyu möchte in jedes Kästchen der Figur eine natürliche Zahl schreiben. Dabei soll das Produkt zweier waagerecht benachbarter Zahlen stets in dem Kästchen direkt darüber stehen. Ganz oben steht die Zahl 180. Wie viele verschiedene Zahlen größer als 1 können in dem Kästchen mit dem Fragezeichen stehen?",
+      "questionImage": "../pictures/2024/2024_78/pic_35.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "8"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "C9",
+      "description": "Das gleichseitige Dreieck ABC hat eine Seitenlänge von 120 cm. Auf den Seiten AC und BC liegen die Punkte D, E und F so, dass die Strecken BD, DE und EF das Dreieck in 4 kleinere Dreiecke teilen, die denselben Flächeninhalt haben. (Abbildung nicht maßstabsgerecht) Welche Länge hat die Strecke CF?",
+      "questionImage": "../pictures/2024/2024_78/pic_36.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "45 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "46 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "47 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "48 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "49 cm"
+        }
+      ],
+      "correct": "A"
+    }
+  ]
+}

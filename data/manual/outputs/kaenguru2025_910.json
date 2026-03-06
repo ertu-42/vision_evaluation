@@ -1,0 +1,604 @@
+{
+  "metadata": {
+    "filename": "kaenguru2025_910.pdf",
+    "class": "9-10",
+    "date": "Donnerstag, 20. März 2025",
+    "requiredTime": "75 Minuten"
+  },
+  "instances": [
+    {
+      "id": "A1",
+      "description": "Eine Klappkarte mit Löchern wird an den dicken Linien gefaltet. Nach dem Falten sieht man durch die Löcher noch einige der Zahlen. Wie groß ist die Summe dieser Zahlen?",
+      "questionImage": "../pictures/2025/2025_910/pic_1.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "7"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "9"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "12"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "14"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "15"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "A3",
+      "description": "In welchem der Sechsecke ist genau ein Drittel der Fläche schwarz und genau die Hälfte der Fläche weiß?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_910/pic_2.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_910/pic_3.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_910/pic_4.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_910/pic_5.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_910/pic_6.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "A5",
+      "description": "Bei einem normalen Spielwürfel ergeben die Augenzahlen auf gegenüberliegenden Seitenflächen zusammen immer 7. Nur einer der gezeigten Würfel kann ein normaler Spielwürfel sein. Welcher?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_910/pic_7.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_910/pic_8.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_910/pic_9.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_910/pic_10.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_910/pic_11.png"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "A8",
+      "description": "An meinem Kühlschrank haften vier Magnete mit Ziffern darauf. Wie viele verschiedene vierstellige Zahlen lassen sich damit bilden?",
+      "questionImage": "../pictures/2025/2025_910/pic_12.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "7"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "9"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "11"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "A9",
+      "description": "Die fünf Freunde Elisa, Gabriel, Julika, Levi und Yasin haben alle das gleiche Smartphone. Am Morgen waren die fünf Smartphones alle voll geladen. Unten sind die fünf Akkuanzeigen am Abend zu sehen. Gabriel hat genauso viel verbraucht wie Elisa und Julika zusammen. Gabriels Akku ist leer. Levi hat sein Smartphone gar nicht benutzt. Welche Akkuanzeige gehört zu Yasins Smartphone?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_910/pic_13.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_910/pic_14.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_910/pic_15.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_910/pic_16.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_910/pic_17.png"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "B1",
+      "description": "Alex faltet ein quadratisches Blatt Papier wie abgebildet an den gestrichelten Linien. Wie groß ist der stumpfe Winkel in dem entstandenen Dreieck?",
+      "questionImage": "../pictures/2025/2025_910/pic_18.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "105 Grad"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "112,5 Grad"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "115 Grad"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "120 Grad"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "127,5 Grad"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B5",
+      "description": "Romy sieht sich ein Foto auf ihrem Smartphone an. Es ist im Querformat 16:9 und füllt das Display genau aus. Wenn sie das Smartphone dreht, wird das Foto kleiner angezeigt, siehe Bild. Welchen Anteil des Displays füllt das Foto nun aus?",
+      "questionImage": "../pictures/2025/2025_910/pic_19.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "3/4"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "4/9"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "27/64"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "32/81"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "81/256"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "B7",
+      "description": "Vasily will die Zahlen von 1 bis 8 rechts in die Kästchen eintragen. Aufeinanderfolgende Zahlen sollen niemals in Kästchen stehen, die eine gemeinsame Seite oder Ecke haben. Welche Zahlen kann Vasily in das Kästchen mit dem Fragezeichen schreiben?",
+      "questionImage": "../pictures/2025/2025_910/pic_20.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1 oder 8"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "2 oder 7"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "3 oder 6"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "4 oder 5"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "7 oder 8"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B8",
+      "description": "Die 4-stellige Zahl ist durch 8 und durch 9 teilbar. Die letzten beiden Ziffern sind verdeckt. Wie groß ist das Produkt dieser beiden Ziffern?",
+      "questionImage": "../pictures/2025/2025_910/pic_21.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "16"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "20"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "24"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "48"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "B9",
+      "description": "Fünf Pakete liegen wie im Bild auf dem Tisch gestapelt. Mara soll sie wegräumen. Sie kann ein Paket nur dann wegräumen, wenn kein anderes darauf liegt. Mara wählt zufällig ein freies Paket aus und räumt es weg. Als nächstes wählt sie zufällig wieder ein freies Paket aus und räumt es weg usw. Wie groß ist die Wahrscheinlichkeit, dass Mara das Paket 3 als drittes wegräumt?",
+      "questionImage": "../pictures/2025/2025_910/pic_22.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1/2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "1/3"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "1/5"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "1/6"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "1/8"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "B10",
+      "description": "Paul schießt 27-mal auf eine Torwand. Er zielt immer auf eines der beiden Löcher. Von den Schüssen auf das Loch links oben sind 50% Treffer. Von den Schüussen auf das Loch rechts unten sind 80% Treffer. Insgesamt hat er 9-mal danebengeschossen. Wie viele von Pauls Schüssen auf das Loch links oben waren Treffer?",
+      "questionImage": "../pictures/2025/2025_910/pic_23.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "7"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "8"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "C1",
+      "description": "Lucie schreibt auf kariertem Papier. Die quadratischen Kästchen haben die Seitenlänge 0,5 cm. Sie beginnt mit einem Kästchen und trägt dort die Zahl 1 ein. Dann nummeriert sie die Kästchen spiralförmig weiter wie gezeigt. Nachdem sie das 2025. Kästchen nummeriert hat, malt Lucie alle nummerierten Kästchen grau aus. Wie groß ist der Umfang der grauen Figur?",
+      "questionImage": "../pictures/2025/2025_910/pic_24.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "75 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "78 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "85 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "90 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "96 cm"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "C2",
+      "description": "An meiner Schule hat das Mädchen-Team im 3x3-Basketball Verstärkung bekommen. Zu den 5 Stammspielerinnen sind 2 neue Spielerinnen hinzugekommen. Bei einem Trainingsspiel gegen ein befreundetes Schulteam trugen sie die Rückennummern 3, 14, 15, 9, 26, 5, 35. Nacheinander wurde immer eine Spielerin gewechselt. Zu jedem Zeitpunkt waren 2 Stammspielerinnen und eine neue Spielerin auf dem Feld. Die Rückennummern der Spielerinnen, die jeweils auf dem Feld standen, waren der Reihe nach wie im Bild. Welche Summe haben die Rückennummern der beiden neuen Spielerinnen?",
+      "questionImage": "../pictures/2025/2025_910/pic_25.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "12"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "20"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "29"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "40"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "44"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "C3",
+      "description": "In jeden Kreis im Bild soll eine Zahl so geschrieben werden, dass die Summe der Zahlen in drei Kreisen, die einander paarweise berühren, immer gleich ist. Drei Zahlen sind bereits eingetragen. Wie groß ist dann die Summe der fünf Zahlen in der mittleren Reihe?",
+      "questionImage": "../pictures/2025/2025_910/pic_26.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "13"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "18"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "23"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "C4",
+      "description": "Die beiden grauen Rechtecke im Bild sind zueinander kongruent. Sie haben beide den Flächeninhalt 3 cm^2. Wie groß ist der Flächeninhalt des großen Rechtecks ABCD?",
+      "questionImage": "../pictures/2025/2025_910/pic_27.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "8 cm^2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "9 cm^2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "10 cm^2"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "11 cm^2"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "12 cm^2"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "C6",
+      "description": "Das Quadrat ABCD enthält ein graues und ein gestreiftes Rechteck wie abgebildet. Der Flächeninhalt des überlappenden Teils der beiden Rechtecke beträgt 18 cm^2 (Abbildung nicht maßstabsgerecht). Wie groß ist der Umfang des Quadrats ABCD?",
+      "questionImage": "../pictures/2025/2025_910/pic_28.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "28 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "34 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "36 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "38 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "40 cm"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "C8",
+      "description": "Zwei Kreise berühren einander wie abgebildet im Punkt A. Die Strecke AB ist ein Durchmesser des großen Kreises. Die Strecke CD ist 16 cm lang, berührt den kleinen Kreis und ist parallel zu AB. Wie groß ist der Flächeninhalt der grauen Fläche in cm^2?",
+      "questionImage": "../pictures/2025/2025_910/pic_29.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "45π"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "56π"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "64π"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "72π"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "85π"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "C9",
+      "description": "Isabella will die Zahlen von 1 bis 8 in die Zellen des 2x4-Rasters schreiben. In jeder der beiden Zeilen sollen die Zahlen von links nach rechts größer werden. Und in jeder Spalte soll die untere Zahl größer als die obere sein. Auf wie viele Arten kann Isabella das Raster ausfüllen?",
+      "questionImage": "../pictures/2025/2025_910/pic_30.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "9"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "12"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "14"
+        }
+      ],
+      "correct": "E"
+    }
+  ]
+}

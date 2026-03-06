@@ -1,0 +1,703 @@
+{
+  "metadata": {
+    "filename": "kaenguru2025_78.pdf",
+    "class": "7-8",
+    "date": "Donnerstag, 20. März 2025",
+    "requiredTime": "75 Minuten"
+  },
+  "instances": [
+    {
+      "id": "A1",
+      "description": "An meinem Kühlschrank haften vier Magnete mit Ziffern darauf. Welche ist die größte Zahl, die sich aus ihnen bilden lässt?",
+      "questionImage": "../pictures/2025/2025_78/pic_1.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "2052"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "5202"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "2502"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "5220"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "5022"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "A2",
+      "description": "Finn hat ein sechseckiges Blatt Papier. Er dreht es schrittweise immer ein Feld im Uhrzeigersinn. Nach welcher der folgenden Schrittzahlen liegt das Blatt wieder wie am Anfang?",
+      "questionImage": "../pictures/2025/2025_78/pic_2.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "14"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "17"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "10"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "15"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "12"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "A3",
+      "description": "Vivienne möchte die vier Ziffern 1, 2, 3 und 4 in die vier Kästchen der Rechnung schreiben. Welches ist das kleinste Ergebnis, das Vivienne erhalten kann?",
+      "questionImage": "../pictures/2025/2025_78/pic_3.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "–3"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "–4"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "–5"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "–6"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "–7"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "A4",
+      "description": "Eine Klappkarte mit Löchern wird an den dicken Linien gefaltet. Nach dem Falten ist nur noch eine einzige Zahl zu sehen. Welche?",
+      "questionImage": "../pictures/2025/2025_78/pic_4.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "3"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "4"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "5"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "6"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "A5",
+      "description": "Das regelmäßige Sechseck ist in gleich große Dreiecke geteilt. Welcher Anteil des Sechsecks ist grau?",
+      "questionImage": "../pictures/2025/2025_78/pic_5.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "1/2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "1/3"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "1/4"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "1/5"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "1/6"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "A7",
+      "description": "Vor meinem Lieblings-Burger-Restaurant steht eine Tafel mit der Speisekarte. Der Regen hat einige der Zahlen weggewaschen. Ich weiß, dass die Burger von oben nach unten teurer werden. Wie viel kostet ein Deluxe-Burger mindestens?",
+      "questionImage": "../pictures/2025/2025_78/pic_6.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "5,80"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "6,80"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "7,80"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "8,80"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "9,80"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "A8",
+      "description": "Es sind 18 Würfel so gestapelt, dass sie einen Quader bilden. Um den Quader sind zwei Bänder rundherum gebunden. Wie viele der Würfel berühren mindestens eines der Bänder?",
+      "questionImage": "../pictures/2025/2025_78/pic_7.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "15"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "13"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "12"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "11"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "9"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "A10",
+      "description": "Sandra würfelt mit drei Spielwürfeln. Die Würfel zeigen zusammen 8 Augen. Jeder der drei Würfel zeigt eine andere Augenzahl. Welche Augenzahl ist sicher nicht dabei?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_78/pic_8.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_78/pic_9.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_78/pic_10.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_78/pic_11.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_78/pic_12.png"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "B1",
+      "description": "Bei meinem Fahrradschloss wird an den Pfeilen die richtige Kombination eingestellt. Im Moment steht dort 0000. Zwei Reihen oberhalb steht 8888. Nun stelle ich die richtige Kombination an den Pfeilen ein. Zwei Reihen oberhalb steht jetzt 2719. Welche ist die richtige Kombination?",
+      "questionImage": "../pictures/2025/2025_78/pic_13.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "4931"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "4593"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "0531"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "4537"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "0937"
+        }
+      ],
+      "correct": "A"
+    },
+    {
+      "id": "B2",
+      "description": "Die Figur rechts wird von fünf Kreisen mit einem Flächeninhalt von jeweils 8 cm^2 gebildet. Die Flächen, an denen zwei Kreise überlappen, haben jeweils einen Flächeninhalt von 1 cm^2. Welchen Flächeninhalt hat die gesamte Figur?",
+      "questionImage": "../pictures/2025/2025_78/pic_14.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "31 cm^2"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "34 cm^2"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "36 cm^2"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "38 cm^2"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "39 cm^2"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "B4",
+      "description": "Werner trainiert auf einem Laufband im Fitnessstudio. Dabei schaut er immer wieder auf zwei Stoppuhren. Die erste gibt die Zeit an, die seit dem Trainingsstart vergangen ist, und die zweite die Zeit, die noch bis zum Ende des Trainings bleibt. Werner freut sich, als beide Stoppuhren dasselbe anzeigen. Was zeigen sie dann?",
+      "questionImage": "../pictures/2025/2025_78/pic_15.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "17:45"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "17:50"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "18:00"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "18:15"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "18:20"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "B5",
+      "description": "In dem abgebildeten Rechteck soll in jedes Kästchen entweder ein Kreis oder ein Kreuz eingetragen werden. In keiner waagerechten oder senkrechten Linie dürfen 3 Kreise oder 3 Kreuze unmittelbar aufeinander folgen. Wie muss die unterste Zeile ausgefüllt werden?",
+      "questionImage": "../pictures/2025/2025_78/pic_16.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_78/pic_17.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_78/pic_18.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_78/pic_19.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_78/pic_20.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_78/pic_21.png"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "B6",
+      "description": "In jeden der Kreise rechts soll eine Zahl eingetragen werden. Jede Zahl soll die Summe der beiden Zahlen in den benachbarten Kreisen sein. Zwei Zahlen sind vorgegeben. Welche Zahl gehört in den grauen Kreis?",
+      "questionImage": "../pictures/2025/2025_78/pic_22.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "0"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "–1"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "–2"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "–3"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "–5"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "B8",
+      "description": "Die Maus Niki möchte zu einem Käsestück kommen. Niki läuft bei jedem Schritt ein Kästchen nach rechts oder ein Kästchen nach unten. Wie viele verschiedene Wege gibt es für Niki, um zu einem Käsestück zu kommen?",
+      "questionImage": "../pictures/2025/2025_78/pic_23.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "10"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "7"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "5"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "B10",
+      "description": "Drei rechteckige Fotos liegen wie abgebildet auf dem Tisch. Wie groß ist der mit dem Fragezeichen markierte Winkel?",
+      "questionImage": "../pictures/2025/2025_78/pic_24.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "68 Grad"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "70 Grad"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "72 Grad"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "74 Grad"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "78 Grad"
+        }
+      ],
+      "correct": "B"
+    },
+    {
+      "id": "C1",
+      "description": "Die Höhe eines Quaders wird um 3 cm verkleinert. Der Oberflächeninhalt des Quaders verringert sich dadurch um 60 cm^2, und der Restkörper ist ein Würfel. Wie groß war das Volumen des ursprünglichen Quaders?",
+      "questionImage": "../pictures/2025/2025_78/pic_25.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "75 cm^3"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "125 cm^3"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "150 cm^3"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "200 cm^3"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "225 cm^3"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "C3",
+      "description": "Im Rechteck ABCD liegen die Punkte E und F so auf der Seite CD, dass die Winkel BAF und EBA beide 45 Grad groß sind und die Strecken AF und BE einander schneiden. Außerdem gilt |AB|+|EF|= 20 cm. (Abb. nicht maßstabsgerecht) Wie lang ist die Seite BC?",
+      "questionImage": "../pictures/2025/2025_78/pic_26.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "8 cm"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "9 cm"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "10 cm"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "11 cm"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "12 cm"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "C5",
+      "description": "In die 8 Kästchen sollen die 8 kleinsten Primzahlen so eingetragen werden, dass A eine ganze Zahl ist. Wie groß kann A maximal sein?",
+      "questionImage": "../pictures/2025/2025_78/pic_27.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "20"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "14"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "10"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "6"
+        }
+      ],
+      "correct": "C"
+    },
+    {
+      "id": "C6",
+      "description": "Beim Fußballtraining schießt Oskar 17-mal auf eine Torwand. Er zielt immer auf eines der beiden Löcher. Von den Schüssen auf das Loch links oben sind 60% Treffer. Von den Schüssen auf das Loch rechts unten sind 75% Treffer. Wie viele von Oskars Schüssen auf das Loch rechts unten waren Treffer?",
+      "questionImage": "../pictures/2025/2025_78/pic_28.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "6"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "7"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "8"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "9"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "10"
+        }
+      ],
+      "correct": "D"
+    },
+    {
+      "id": "C8",
+      "description": "Amelie faltet aus dem abgebildeten Netz ein Oktaeder. Die Flächen im Netz färbt sie schwarz, dunkelgrau oder hellgrau. An jeder Ecke des Oktaeders und an jeweils gegenüberliegenden Oktaeder-Ecken sollen alle angrenzenden Flächen dieselbe Farbe haben. Wie muss Amelie die Fläche mit dem Fragezeichen färben?",
+      "questionImage": "../pictures/2025/2025_78/pic_29.png",
+      "answers": [
+        {
+          "label": "A",
+          "type": "text",
+          "value": "sicher schwarz"
+        },
+        {
+          "label": "B",
+          "type": "text",
+          "value": "schwarz oder dunkelgrau"
+        },
+        {
+          "label": "C",
+          "type": "text",
+          "value": "sicher dunkelgrau"
+        },
+        {
+          "label": "D",
+          "type": "text",
+          "value": "dunkelgrau oder hellgrau"
+        },
+        {
+          "label": "E",
+          "type": "text",
+          "value": "sicher hellgrau"
+        }
+      ],
+      "correct": "E"
+    },
+    {
+      "id": "C10",
+      "description": "Adira hat fünf kleine Truhen mit Perlen zum Basteln, in jeder Truhe eine Farbe: rot, gold, pink, schwarz und blau. Sie hat die Truhen wie gezeigt beschriftet. Alle Aufschriften sind korrekt. Adiras Freundin Ruby möchte wissen, in welcher Truhe die roten Perlen sind. Adira lässt sie in genau eine Truhe hineinschauen. Welche Truhe muss Ruby wählen, damit sie auf jeden Fall weiß, in welcher Truhe die roten Perlen sind?",
+      "questionImage": null,
+      "answers": [
+        {
+          "label": "A",
+          "type": "image",
+          "value": "../pictures/2025/2025_78/pic_30.png"
+        },
+        {
+          "label": "B",
+          "type": "image",
+          "value": "../pictures/2025/2025_78/pic_31.png"
+        },
+        {
+          "label": "C",
+          "type": "image",
+          "value": "../pictures/2025/2025_78/pic_32.png"
+        },
+        {
+          "label": "D",
+          "type": "image",
+          "value": "../pictures/2025/2025_78/pic_33.png"
+        },
+        {
+          "label": "E",
+          "type": "image",
+          "value": "../pictures/2025/2025_78/pic_34.png"
+        }
+      ],
+      "correct": "D"
+    }
+  ]
+}

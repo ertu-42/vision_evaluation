@@ -1,0 +1,6 @@
+pydantic>=2.0
+pillow
+tqdm
+transformers
+vllm
+scikit-learn
